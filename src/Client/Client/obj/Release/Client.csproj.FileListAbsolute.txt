@@ -1,0 +1,33 @@
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\bin\Release\Client.exe.config
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\bin\Release\Client.exe
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\bin\Release\Client.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\obj\Release\Client.Messenger.resources
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\obj\Release\Client.exe
+C:\Users\Jakub\Desktop\Bańka Final\Client\Client\obj\Release\Client.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\bin\Release\Client.exe.config
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\obj\Release\Client.exe
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\obj\Release\Client.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\bin\Release\Client.exe
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\bin\Release\Client.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\obj\Release\Client.Messenger.resources
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Bańka Final\src\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\bin\Release\Client.exe.config
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\obj\Release\Client.exe
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\obj\Release\Client.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\bin\Release\Client.exe
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\bin\Release\Client.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\obj\Release\Client.Messenger.resources
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache

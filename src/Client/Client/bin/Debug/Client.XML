@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Client</name>
+    </assembly>
+    <members>
+        <member name="T:Client.Messenger">
+            <summary>
+            klasa efiniujaca glowne okno aplikacji Messenger 
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.client">
+            <summary>
+            gniazdo TCP do komunikacji z serwerem 
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.serverPK">
+            <summary>
+            pole przechowujace klucz publiczny serwera
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.hashAlgorithm">
+            <summary>
+            algorytm hashujacy
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.user">
+            <summary>
+            obiekt user typu User
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.loggedIn">
+            <summary>
+            czy zalogowany
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.chats">
+            <summary>
+            slownik przechowujacy wszystkie rozmowy
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.aesDictionary">
+            <summary>
+            slownik przechowujacy klucze AES
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.userList">
+            <summary>
+            lista przechowujaca zalogowanych uzytkownikow
+            </summary>
+        </member>
+        <member name="E:Client.Messenger.messageReceived">
+            <summary>
+            zdarzenie wywolujace sie po odebraniu wiadomosci
+            </summary>
+        </member>
+        <member name="F:Client.Messenger.syncRoot">
+            <summary>
+            obiekt sluzacy do zblokowania watkow
+            </summary>
+        </member>
+        <member name="M:Client.Messenger.#ctor">
+            <summary>
+            konstruktor podstawowy obietu Messenger
+            </summary>
+        </member>
+        <member name="M:Client.Messenger.Form1_messageReceived(System.Object,Client.MessageReceivedEventArgs)">
+            <summary>
+            metoda definiujaca przyjscie wiadomosci
+            </summary>
+            <param name="sender">nadawca</param>
+            <param name="e">zdarzenie przyjscia wiadomosci</param>
+        </member>
+        <member name="M:Client.Messenger.AddOrUpdateDictionary(System.String,System.String)">
+            <summary>
+            metoda aktualizujaca slownik przechowujacy wszystkie rozmowy
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <param name="value">wartosc do dodania</param>
+        </member>
+        <member name="M:Client.Messenger.GetSender(System.String)">
+            <summary>
+            metoda zwracajaca nadawce wiaomosci z listy uzytkownikow
+            </summary>
+            <param name="name">nazwa uzytkownika</param>
+            <returns>obiekt uzytkownika o nazwie podanej w argumencie</returns>
+        </member>
+        <member name="M:Client.Messenger.AddOrUpdateAesDictionary(System.String,System.Security.Cryptography.AesManaged)">
+            <summary>
+            metoda aktualizujaca slownik przechowujacy wszystkie klucze AES
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <param name="value">wartosc do dodania</param>
+        </member>
+        <member name="M:Client.Messenger.GetFromDictionary(System.String)">
+            <summary>
+            metoda do pobierania wartosci ze slownika przechowujacego wszystkie rozmowy
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <returns>zwraca element slownika zawierajacy klucz</returns>
+        </member>
+        <member name="M:Client.Messenger.CheckDictionary(System.String)">
+            <summary>
+            metoda sluzaca do sprawdzania czy dany element jest w slowniku przechowujacym wszystkie rozmowy
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <returns>warotsc true jesli element jest w slowniku lub false, gdy do nie ma</returns>
+        </member>
+        <member name="M:Client.Messenger.Login(System.Object)">
+            <summary>
+            metoda sluzaca do zalogowania uzytkownika
+            </summary>
+            <param name="obj">obiekt sluzacy do uruchomienia metody</param>
+        </member>
+        <member name="M:Client.Messenger.loginButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie wcisniecia przycisku logowania
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie wcisnieca przycisku logowania</param>
+        </member>
+        <member name="M:Client.Messenger.SignString(System.String)">
+            <summary>
+            metoda sluzaca do wygenerowania podpisu cyfrowego z obietu typu string
+            </summary>
+            <param name="message">wiadomosc do podpisania</param>
+            <returns>podpisana podpisem cyfrowym wiadomosc</returns>
+        </member>
+        <member name="M:Client.Messenger.CheckAesDictionary(System.String)">
+            <summary>
+            metoda sluzaca do sprawdzania czy dany element jest w slowniku przechowujacym klucze AES 
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <returns>warotsc true jesli element jest w slowniku lub false, gdy do nie ma</returns>
+        </member>
+        <member name="M:Client.Messenger.SendMessage">
+            <summary>
+            metoda sluzaca do wyslania wiadomosci do drugiego uzytkownika
+            </summary>
+        </member>
+        <member name="M:Client.Messenger.MessageInputTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie wcisniecia klawisza enter znajdujac sie w polu sluzacym do wpisywania wiadomosci
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie nacisniecia klawisza enter</param>
+        </member>
+        <member name="M:Client.Messenger.GetAes(System.String)">
+            <summary>
+            metoda sluzaca do pobrania klucza AES dla danego uzytkownika
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <returns>zwraca lucz AES danego uzytkownika</returns>
+        </member>
+        <member name="M:Client.Messenger.MessageInputTextBox_KeyUp(System.Object,System.Windows.Forms.KeyEventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie podniesienia klawisza enter znajdujac sie w polu sluzacym do wpisywania wiadomosci
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie podniesienia klawisza enter</param>
+        </member>
+        <member name="M:Client.Messenger.Form1_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie zamkniecia obiektu typu Messenger
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie zamkniecia obiektu typu Messenger</param>
+        </member>
+        <member name="M:Client.Messenger.Send(System.String)">
+            <summary>
+            metoda sluzaca do wyslania wiadomosci do danego uzytkownika
+            </summary>
+            <param name="text">tekst wiadomosci</param>
+        </member>
+        <member name="M:Client.Messenger.GetAesKey">
+            <summary>
+            metoda sluzaca do wyslania prosby o klucz danego uzytkownika do serwera
+            </summary>
+        </member>
+        <member name="M:Client.Messenger.onlineUsersListBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie wybrania danego uzytkownika z listy uzytkownikow
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie wybrania danego uzytkownika z listy uzytkownikow</param>
+        </member>
+        <member name="M:Client.Messenger.StartConversationButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie nacisniecia przycisku startu konwersacji 
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie nacisniecia przycisku startu konwersacji</param>
+        </member>
+        <member name="M:Client.Messenger.SendMessageButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            metoda definiujaca zdarzenie nacisniecia przycisku wyslania wiadomosci
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie nacisniecia przycisku startu konwersacji</param>
+        </member>
+        <member name="F:Client.Messenger.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Client.Messenger.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Client.Messenger.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Client.FormExtentions">
+            <summary>
+            klasa rozszerzajaca funkcjonalnosci okna Messenger 
+            </summary>
+        </member>
+        <member name="M:Client.FormExtentions.EnableButton(System.Windows.Forms.Button,System.Boolean)">
+            <summary>
+            metoda likwidujaca konflikty miedzywatkowe przy obsludze przycisków
+            </summary>
+            <param name="button">dany przycisk</param>
+            <param name="enabled">czy aktywny</param>
+        </member>
+        <member name="M:Client.FormExtentions.ChangeText(System.Windows.Forms.RichTextBox,System.String,System.Boolean)">
+            <summary>
+             metoda likwidujaca konflikty miedzywatkowe przy obsludze pol tekstowych
+            </summary>
+            <param name="box">dane pole tekstowe</param>
+            <param name="text">tekst</param>
+            <param name="isMe">czy ten klient jest autorem tekstu</param>
+        </member>
+        <member name="T:Client.MessageReceivedEventArgs">
+            <summary>
+            klasa definiujaca argumenty zdarzenia MessageReceivedEventArgs
+            </summary>
+        </member>
+        <member name="F:Client.MessageReceivedEventArgs.message">
+            <summary>
+            wiadomosc
+            </summary>
+        </member>
+        <member name="P:Client.MessageReceivedEventArgs.Message">
+            <summary>
+            zwraca pole prywatne message
+            </summary>
+        </member>
+        <member name="M:Client.MessageReceivedEventArgs.#ctor(System.String)">
+            <summary>
+            konstruktoe obiektu MessageReceivedEventArgs
+            </summary>
+            <param name="data">wiadomosc</param>
+        </member>
+        <member name="M:Client.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Client.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Client.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Client.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,30 @@
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\TestApp.exe.config
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Release\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\obj\Release\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\obj\Release\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\TestApp.exe.config
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\obj\Release\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\obj\Release\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Release\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\TestApp.exe.config
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\obj\Release\TestApp.exe
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\obj\Release\TestApp.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\TestApp.exe
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\TestApp.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\Server.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Release\Server.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache

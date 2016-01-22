@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="a575bee3-7eb1-494e-b794-829d68d9980a" Title="Namespaces" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="b93b4687-4b47-411d-a87d-2b425cae7d1c" Title="Client" Url="html/cc68001d-30e4-af22-a802-b877b772ba65.htm">
+      <HelpTOCNode Id="e090ff6f-b966-4075-8f99-0c67e1f42d4b" Title="FormExtentions Class" Url="html/a28f9008-605b-1680-91bc-afc988b2b675.htm">
+        <HelpTOCNode Id="ad630485-3c4f-4247-9053-a1b57a82ff09" Title="FormExtentions Methods" Url="html/aee29a1b-fb4d-5985-40e3-6947ea0d4515.htm">
+          <HelpTOCNode Title="ChangeText Method " Url="html/bbd797ab-9935-045d-e5fe-9dad98ee35fb.htm" />
+          <HelpTOCNode Title="EnableButton Method " Url="html/d5239975-ffd0-767f-234f-07f7e9950ea1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f499970f-2f3a-4f50-8b70-5166edecb32f" Title="MessageReceivedEventArgs Class" Url="html/59ef94df-aabd-5431-6bac-06610d97a32a.htm">
+        <HelpTOCNode Title="MessageReceivedEventArgs Constructor " Url="html/1114deb1-62a4-1430-6e47-4b985c8207b6.htm" />
+        <HelpTOCNode Id="337c95a1-6814-4f75-bf8d-bd4157212039" Title="MessageReceivedEventArgs Fields" Url="html/e6c1628a-871f-3d1e-cc70-2167f4e760c7.htm">
+          <HelpTOCNode Title="message Field" Url="html/7d2c6e5f-30e7-a4c3-decf-2d693156dc54.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="16525dad-e91f-4a2b-a201-f65edac4e13a" Title="MessageReceivedEventArgs Properties" Url="html/7c7b2846-55de-cf4c-507c-1ff683291f9f.htm">
+          <HelpTOCNode Title="Message Property " Url="html/1a84863d-2fe2-ef55-269a-2954317b91b8.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c1281e0-d10f-4243-95f5-79c03ec0b2c8" Title="Messenger Class" Url="html/e57f8681-f6ef-028c-4de6-6dae120a1d18.htm">
+        <HelpTOCNode Title="Messenger Constructor " Url="html/b12c8594-fdca-48f1-5799-fc6d8cf28392.htm" />
+        <HelpTOCNode Id="92f5a1fc-af60-40c9-ae4b-67297c85dec7" Title="Messenger Fields" Url="html/321941a4-9541-c8c2-52aa-c6b92e509a41.htm">
+          <HelpTOCNode Title="aesDictionary Field" Url="html/701d400b-dd18-1839-8363-bba46ef1d198.htm" />
+          <HelpTOCNode Title="chats Field" Url="html/27042767-eba3-c343-f105-5cfa821804cc.htm" />
+          <HelpTOCNode Title="client Field" Url="html/8143cba8-8ca7-6ae6-0188-6cdbd03390fc.htm" />
+          <HelpTOCNode Title="components Field" Url="html/ae8f5da0-31f8-2321-4f75-e1e71990970c.htm" />
+          <HelpTOCNode Title="hashAlgorithm Field" Url="html/3e72ab2f-2187-b854-573d-ab37d4266c07.htm" />
+          <HelpTOCNode Title="loggedIn Field" Url="html/c05a62d1-cca3-e76f-e10f-b7fd9d21d9e0.htm" />
+          <HelpTOCNode Title="loginButton Field" Url="html/2871dcdd-f667-be04-6b0c-b80a31ed89f3.htm" />
+          <HelpTOCNode Title="loginLabel Field" Url="html/5aa9884c-971d-fe2d-62ae-9fd8b3bb577c.htm" />
+          <HelpTOCNode Title="loginPage Field" Url="html/25ec5cde-a340-5420-2c27-167a03cd7590.htm" />
+          <HelpTOCNode Title="loginRadioButton Field" Url="html/65bb3ca6-6965-4e08-4841-89f76fd25220.htm" />
+          <HelpTOCNode Title="loginTextBox Field" Url="html/64d6171d-7c46-aca2-ef64-792cacc57bc4.htm" />
+          <HelpTOCNode Title="MessageInputTextBox Field" Url="html/fad439a7-0ef1-e947-71a4-4f47124dd4b9.htm" />
+          <HelpTOCNode Title="MessengerPage Field" Url="html/ec7715c4-e680-84a4-6e39-146941d8bff1.htm" />
+          <HelpTOCNode Title="messengerRichTextBox Field" Url="html/36b98388-e79c-deeb-fe7a-332357cfc1a5.htm" />
+          <HelpTOCNode Title="onlineUsersListBox Field" Url="html/e6bda3ba-373e-c90e-65f3-5b1fb6e4304f.htm" />
+          <HelpTOCNode Title="passwordLabel Field" Url="html/0f31b31f-7751-7fa8-2592-a246b1273f85.htm" />
+          <HelpTOCNode Title="passwordTextBox Field" Url="html/2b188c1d-21e2-71f5-51c4-c7a4adaa39d0.htm" />
+          <HelpTOCNode Title="registerRadioButton Field" Url="html/c04707ad-d166-c13c-1d84-0dba9ea9c70b.htm" />
+          <HelpTOCNode Title="SendMessageButton Field" Url="html/6f0eceb3-44d7-d131-9077-b62ee6e91efa.htm" />
+          <HelpTOCNode Title="serverPK Field" Url="html/77216c21-a001-346d-374f-d704337b909e.htm" />
+          <HelpTOCNode Title="StartConversationButton Field" Url="html/f06ebe5b-e81b-cd2f-c246-32955fbe6036.htm" />
+          <HelpTOCNode Title="syncRoot Field" Url="html/ef4ce106-9b72-bbb5-e2f5-bbebf17b2136.htm" />
+          <HelpTOCNode Title="tabControl Field" Url="html/e855a07b-0d5d-b7f9-25cb-6b036ca60c6a.htm" />
+          <HelpTOCNode Title="user Field" Url="html/2940314e-29a6-3ac1-f317-4dbcf5a63508.htm" />
+          <HelpTOCNode Title="userList Field" Url="html/aa3e289e-6d39-051f-f5dc-7cccb7390a07.htm" />
+          <HelpTOCNode Title="usersOnlineLabel Field" Url="html/21f4f42e-4393-8c93-52b4-7e8c366c5608.htm" />
+          <HelpTOCNode Title="welcomeLabel Field" Url="html/968632f6-a863-7023-cecf-152888baa948.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a1435ec6-a3cb-4c1a-aefe-dbaa82e47b7d" Title="Messenger Methods" Url="html/0821fac7-bb44-b893-1554-fac04a3cb266.htm">
+          <HelpTOCNode Title="AddOrUpdateAesDictionary Method " Url="html/9e7fbf99-8229-66b1-be1f-61734cf906da.htm" />
+          <HelpTOCNode Title="AddOrUpdateDictionary Method " Url="html/135ec216-d43a-6c16-c652-b7cf3d2d5c95.htm" />
+          <HelpTOCNode Title="CheckAesDictionary Method " Url="html/9090eab1-8d5d-9b1e-5d9b-d005edbca7a1.htm" />
+          <HelpTOCNode Title="CheckDictionary Method " Url="html/1c03c170-da75-34e3-e18c-4f1eac9e927c.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/d3f71d69-32e8-4892-bfac-4864a1d08147.htm" />
+          <HelpTOCNode Title="Form1_FormClosing Method " Url="html/2d0f8ff1-7875-b2df-3ae0-84f1ccd26970.htm" />
+          <HelpTOCNode Title="Form1_messageReceived Method " Url="html/9f600997-4fdd-90c5-537a-0586482859b4.htm" />
+          <HelpTOCNode Title="GetAes Method " Url="html/d6f0def7-70e0-62f7-bd61-675936a8597a.htm" />
+          <HelpTOCNode Title="GetAesKey Method " Url="html/8a563670-4011-4944-ad7b-ba46f55f04a6.htm" />
+          <HelpTOCNode Title="GetFromDictionary Method " Url="html/44db8e1f-45a0-112f-f6a0-d722c41e5f21.htm" />
+          <HelpTOCNode Title="GetSender Method " Url="html/36e492a1-13aa-19de-5e96-aaa1929bdd55.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/791441ea-2a4b-dc99-9e57-7e8a97aecd81.htm" />
+          <HelpTOCNode Title="Login Method " Url="html/adc1cbda-8254-e4e8-a217-d5b88307f8e5.htm" />
+          <HelpTOCNode Title="loginButton_Click Method " Url="html/8ddc570b-add1-71ce-ae1c-4a29091c692a.htm" />
+          <HelpTOCNode Title="MessageInputTextBox_KeyPress Method " Url="html/c9a478b6-185c-e95f-ea60-4727da77b5d2.htm" />
+          <HelpTOCNode Title="MessageInputTextBox_KeyUp Method " Url="html/d11d95f3-3ec7-f63f-bfea-8f2649db2917.htm" />
+          <HelpTOCNode Title="onlineUsersListBox_SelectedIndexChanged Method " Url="html/3160316a-75a8-48b4-6210-8d10e94d12ba.htm" />
+          <HelpTOCNode Title="Send Method " Url="html/10273b0d-c6a3-67ec-2d9c-1443c4e73a99.htm" />
+          <HelpTOCNode Title="SendMessage Method " Url="html/5325cb95-8493-e567-e856-22fbf9d18efd.htm" />
+          <HelpTOCNode Title="SendMessageButton_Click Method " Url="html/4d171ffd-81f9-1ee9-9d72-203218044fa3.htm" />
+          <HelpTOCNode Title="SignString Method " Url="html/78c01f95-6269-16a7-7a1a-1219d66b6c82.htm" />
+          <HelpTOCNode Title="StartConversationButton_Click Method " Url="html/2e0b71bb-752f-fe67-7cde-5423c7c77107.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a0edb6cd-5ea7-4920-af97-5250b12346f6" Title="Messenger Events" Url="html/3a255b33-3e25-7867-8227-2d00eb7687e3.htm">
+          <HelpTOCNode Title="messageReceived Event" Url="html/65a0cca7-6890-e5aa-d40d-bb3c65acdab2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d6a56061-1ca0-48ee-ab12-6b287389824e" Title="Program Class" Url="html/1624a5c5-95c9-08c7-c79b-4b895ca4bd71.htm">
+        <HelpTOCNode Id="6ae9bc73-c2cf-42e2-904e-3b8f0c3917ed" Title="Program Methods" Url="html/b1b7d858-bbf9-7f85-e1c6-64a864425ea7.htm">
+          <HelpTOCNode Title="Main Method " Url="html/d45004e6-f126-75f3-c96d-4cc97d786056.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="31b9d00d-4f1d-4550-8349-0ac57486e143" Title="Messages" Url="html/57197301-4693-466f-6994-e9c984114434.htm">
+      <HelpTOCNode Id="67142b3b-a4e0-4b51-997f-d40365c255e5" Title="Message Class" Url="html/2071554a-fced-813d-4773-09df0f831515.htm">
+        <HelpTOCNode Id="fe14374e-1fe3-4a7f-93d7-e2ecdb355266" Title="Message Constructor " Url="html/11e9e7d4-d5cb-fbab-92bd-6384ab425ef2.htm">
+          <HelpTOCNode Title="Message Constructor " Url="html/a7dd2317-2e5b-137d-8f94-665d083014cc.htm" />
+          <HelpTOCNode Title="Message Constructor (String, String, String, String)" Url="html/1d80af8d-c866-433e-e74c-a61cb01249a0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9c37bddd-2154-4d30-9cd1-06301aaefacd" Title="Message Fields" Url="html/e99e5e1c-7858-d055-865d-0aaf9e0f8597.htm">
+          <HelpTOCNode Title="data Field" Url="html/bca33d01-797b-a8d6-67b9-e292c64c1bb0.htm" />
+          <HelpTOCNode Title="receiver Field" Url="html/07710635-efdd-878f-4677-1bccf5ea1262.htm" />
+          <HelpTOCNode Title="sender Field" Url="html/ff0d7d34-3dad-6f9f-407b-f1c848b0196b.htm" />
+          <HelpTOCNode Title="signature Field" Url="html/ace51769-c8d5-f709-b043-a61aec099100.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c903cbbf-789b-46bd-88cf-d8ecfd76237b" Title="Message Properties" Url="html/9b6b59ef-983f-1a08-c3d2-0d433dc937c3.htm">
+          <HelpTOCNode Title="Receiver Property " Url="html/c96201de-65e5-edfc-1daf-a0266466c166.htm" />
+          <HelpTOCNode Title="Sender Property " Url="html/ea9ac480-dff4-bffc-3317-7274491fc88d.htm" />
+          <HelpTOCNode Title="Signature Property " Url="html/31efdc6e-0c8e-a101-509b-9bbaa828218a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f0030348-1d27-4af3-904f-f168c84553a2" Title="MessageSerializer Class" Url="html/a80521e5-4f45-6277-a22a-efcc69727d2e.htm">
+        <HelpTOCNode Id="251bfddf-b031-4028-89f2-94469379a42a" Title="MessageSerializer Methods" Url="html/53d5511d-8177-3b3f-b85a-4da5eddb44fd.htm">
+          <HelpTOCNode Title="Deserialize Method " Url="html/90e8e57f-d194-a470-566d-f2fce07ded55.htm" />
+          <HelpTOCNode Title="Serialize Method " Url="html/ecf59286-a026-e155-4c35-d478bae3be76.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b00c8b96-24aa-4e5f-be18-c6236106c00d" Title="RegisterMessage Class" Url="html/45177608-b4e0-390e-d573-aa84030c4549.htm">
+        <HelpTOCNode Id="375103cf-08f8-4f21-b73c-cd8c0989b0bf" Title="RegisterMessage Constructor " Url="html/6c0879c5-6a27-c811-e5ba-6c278d096dc0.htm">
+          <HelpTOCNode Title="RegisterMessage Constructor " Url="html/7dcc6efd-9284-b471-2bfd-d95961622d42.htm" />
+          <HelpTOCNode Title="RegisterMessage Constructor (String, String, RSAParameters, Boolean)" Url="html/0c86dcc4-cb46-dbd5-c65a-c6ad38b35a4c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2b3d7624-4120-40e8-a9af-f381627fd070" Title="RegisterMessage Fields" Url="html/5d112c0b-a206-0a2c-f950-71b0381ce41b.htm">
+          <HelpTOCNode Title="isRegistered Field" Url="html/77312306-4239-0b92-8823-2645350fb36d.htm" />
+          <HelpTOCNode Title="password Field" Url="html/c4d83a10-6c4c-8212-7c88-c0901204e85c.htm" />
+          <HelpTOCNode Title="publicKey Field" Url="html/6a5ef1bc-5095-711c-81e6-51aa62f0df1a.htm" />
+          <HelpTOCNode Title="username Field" Url="html/ec611f67-28aa-ea8f-4887-327cff246d80.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="210edb92-3be6-47c3-bd2e-9fdd38f7fd8d" Title="RegisterMessage Properties" Url="html/ed6b4a5b-2cd7-ff5d-a1d1-0eb0919e674a.htm">
+          <HelpTOCNode Title="IsRegistred Property " Url="html/45523e91-4057-7e8e-3163-a4c6ca0b4fff.htm" />
+          <HelpTOCNode Title="Password Property " Url="html/bb36a0fe-cdb0-c1ca-1455-a7bddc3cddfe.htm" />
+          <HelpTOCNode Title="PublicKey Property " Url="html/e0207901-d90a-06ef-ecab-0a5e5debfd24.htm" />
+          <HelpTOCNode Title="Username Property " Url="html/9d4bf925-92fe-f252-6058-32f369e2df0b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2d5750a3-66d9-4513-b2df-962b583577a7" Title="Security Class" Url="html/7c1ffdd5-452e-66e1-5491-958d2f132008.htm">
+        <HelpTOCNode Id="f6f5c38e-bf54-45e2-a0e2-29ee54f1ac1f" Title="Security Methods" Url="html/4a77ef87-2f45-82f7-8aff-518b9cfc6967.htm">
+          <HelpTOCNode Title="AESDecrypt Method " Url="html/e9a758b0-72f9-e32b-4343-a197f372a2be.htm" />
+          <HelpTOCNode Title="AESEncrypt Method " Url="html/9c188306-c36d-1eab-1165-d215c3e829ac.htm" />
+          <HelpTOCNode Id="5459a6f3-6202-4d48-87b9-3bd452ba9eaa" Title="DecryptMessage Method " Url="html/3d4fe2fd-789e-e1b2-ac55-91a31a148685.htm">
+            <HelpTOCNode Title="DecryptMessage Method (Message, RSAParameters)" Url="html/f91519c3-b82f-69fe-2013-ebae96bef839.htm" />
+            <HelpTOCNode Title="DecryptMessage Method (RegisterMessage, RSAParameters)" Url="html/3957d867-39ae-afd6-09ef-541babd08ca9.htm" />
+            <HelpTOCNode Title="DecryptMessage Method (Message, RSAParameters, Byte[], Byte[])" Url="html/974b4cad-40b6-18c4-30d4-fb61ea43f5f4.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="72aefa64-82c2-4e0e-9c01-09fcadd825b9" Title="EncryptMessage Method " Url="html/62b6c9c7-2d4f-7df7-0f40-166bd71acbd4.htm">
+            <HelpTOCNode Title="EncryptMessage Method (Message, RSAParameters)" Url="html/7c25d016-011a-a143-7671-bef6cecf16ba.htm" />
+            <HelpTOCNode Title="EncryptMessage Method (RegisterMessage, RSAParameters)" Url="html/2315dc0c-16a3-09a4-3aa1-b28c75856601.htm" />
+            <HelpTOCNode Title="EncryptMessage Method (Message, RSAParameters, Byte[], Byte[])" Url="html/08c2b736-82f4-abd0-53aa-be7069fa8780.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="RSADecrypt Method " Url="html/e908f029-13e9-be18-42cf-7bb2a9523413.htm" />
+          <HelpTOCNode Title="RSAEncrypt Method " Url="html/0ba37729-80ca-e771-87f6-885c1da8cc35.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0c15b7a-827d-4d4d-82ea-7947c434ec76" Title="StartConversationReplyMessage Class" Url="html/4575ae1b-9d54-1e00-7f11-ec3896338649.htm">
+        <HelpTOCNode Id="167c696c-0a45-40ec-9d50-1e8ac83342ed" Title="StartConversationReplyMessage Constructor " Url="html/5c9e3a57-0053-bf62-8b96-1ca5ab2e165d.htm">
+          <HelpTOCNode Title="StartConversationReplyMessage Constructor " Url="html/fb400352-2c34-a126-c584-3fe33ff2c310.htm" />
+          <HelpTOCNode Title="StartConversationReplyMessage Constructor (String, Byte[], Byte[])" Url="html/27275d40-2100-a706-f002-a92c4514d766.htm" />
+          <HelpTOCNode Title="StartConversationReplyMessage Constructor (String, Byte[], Byte[], String)" Url="html/9c7e3817-0cf3-f9fb-2c64-396753261bc2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5b0fd731-aa7a-414a-b006-0fc315bc3cf1" Title="StartConversationReplyMessage Fields" Url="html/e2f26b14-4175-38af-69b8-16b6725fed34.htm">
+          <HelpTOCNode Title="iv Field" Url="html/3f7b08b6-e976-e2cf-c2c2-0bfebb964e58.htm" />
+          <HelpTOCNode Title="key Field" Url="html/0235fa08-b93d-7eed-cafd-01ec22529555.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6110d126-c281-47c5-b0f9-4d5823b25bfe" Title="StartConversationReplyMessage Properties" Url="html/7567205c-de5f-f9e5-9d81-5057c8bf26d1.htm">
+          <HelpTOCNode Title="IV Property " Url="html/de9643ce-d5c1-bee4-bc29-421188a9bbff.htm" />
+          <HelpTOCNode Title="Key Property " Url="html/66306b56-226e-6c61-3164-49bf0a55b47b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c312d447-b67a-40e3-be3a-3ce606b60386" Title="User Class" Url="html/d7fc3d3b-b7b4-c6a2-b60d-c1d0d5d6c429.htm">
+        <HelpTOCNode Id="ad62ad55-c231-47ab-8e4f-0c4f7dfe67d4" Title="User Constructor " Url="html/856e846e-88fa-f041-8b0d-b91a34fb591f.htm">
+          <HelpTOCNode Title="User Constructor " Url="html/3a16de73-dde3-31e0-e393-38e79579b47f.htm" />
+          <HelpTOCNode Title="User Constructor (String, String, RSAParameters)" Url="html/6bb8cb0d-356f-e6ab-cc63-6747efcba9fb.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="65dec438-e658-47eb-bcc3-f42b0c7b4e93" Title="User Fields" Url="html/515f8fcc-c161-b6fc-27e1-731841260a4b.htm">
+          <HelpTOCNode Title="password Field" Url="html/a5cb45eb-6f92-31a8-7829-990ee1346669.htm" />
+          <HelpTOCNode Title="rsaKeys Field" Url="html/7b3eab1b-020b-c84b-f4f7-5191d5076075.htm" />
+          <HelpTOCNode Title="username Field" Url="html/68ce2445-ea33-192c-3da3-d5de506921f0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="118cdf9a-2315-4eb6-961a-0fad4055afab" Title="User Properties" Url="html/aab77683-d69a-eb39-9e8c-5ad71b60d2ea.htm">
+          <HelpTOCNode Title="Password Property " Url="html/88e28dbe-61f1-67f0-f45f-8c5408f5b82f.htm" />
+          <HelpTOCNode Title="RSAKeys Property " Url="html/4a0f280f-c2b3-b05d-259a-e5fba007ee28.htm" />
+          <HelpTOCNode Title="Username Property " Url="html/c9acd15e-702d-4189-7088-6293904aa391.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0d3ad443-8d9a-4136-8a82-55d2bff3fa8e" Title="Server" Url="html/01fb5fc4-553e-1341-981f-f7b97fb52f82.htm">
+      <HelpTOCNode Id="4bdaef3d-039f-430c-be80-9eab9e08b72e" Title="RequestEventArgs Class" Url="html/067d5ec1-9652-86ed-9e8e-bb8c209827fc.htm">
+        <HelpTOCNode Title="RequestEventArgs Constructor " Url="html/97e04bc7-2060-f804-86a4-9994529591b5.htm" />
+        <HelpTOCNode Id="201b15f5-8e06-4d9b-9a6e-ed839f4ff1e2" Title="RequestEventArgs Fields" Url="html/79f8e819-3e3e-99f7-454c-e54920b5770f.htm">
+          <HelpTOCNode Title="message Field" Url="html/cc6a64d3-fb77-3860-e76f-24a447c926da.htm" />
+          <HelpTOCNode Title="username Field" Url="html/d4fd4344-d286-64f5-bea9-7f1b1da501a2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="41c8a22f-5bd2-49fd-aede-fb18a2752468" Title="RequestEventArgs Properties" Url="html/2ec08af2-2cef-baf6-4d46-3f80b700f989.htm">
+          <HelpTOCNode Title="Message Property " Url="html/8cfd2386-cf61-a2c8-f843-4934ba725d65.htm" />
+          <HelpTOCNode Title="Username Property " Url="html/c2aa2490-d760-952a-2dc7-dc533ee27e79.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c59d8a40-655d-4d79-8a34-e1ce4830b428" Title="Server Class" Url="html/5999b792-e710-3c19-d9ed-4af250206c90.htm">
+        <HelpTOCNode Title="Server Constructor " Url="html/eb05e33a-0872-4edc-2d53-f49af25133ef.htm" />
+        <HelpTOCNode Title="Server Constructor " Url="html/af1a0bef-17ee-eb55-328d-46183860f32c.htm" />
+        <HelpTOCNode Id="4094fdc4-617b-44a3-a061-2a1587d98a12" Title="Server Fields" Url="html/5c890939-0888-c3c0-38cc-bd2cf0e2c11d.htm">
+          <HelpTOCNode Title="aesKeyGenerator Field" Url="html/28c1ca11-bcc8-7d9d-8e57-5a006ee1a890.htm" />
+          <HelpTOCNode Title="hashAlgorithm Field" Url="html/5fb7d579-0bc9-3ac5-4d51-982753fae3a5.htm" />
+          <HelpTOCNode Title="onlineClients Field" Url="html/3fab27b2-9be6-af5b-d1e1-18e5157aa5d0.htm" />
+          <HelpTOCNode Title="rsaKeyGenerator Field" Url="html/1949fbec-69cf-6b88-c9d0-8b69d285e061.htm" />
+          <HelpTOCNode Title="syncRoot Field" Url="html/34260f58-bb60-d60f-a555-3d3b65c62c5a.htm" />
+          <HelpTOCNode Title="usersInformation Field" Url="html/b55823b2-476b-5cb1-1723-e109c331038c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="315514d5-9abf-4117-b2d9-b045a7dfe0eb" Title="Server Methods" Url="html/582f8805-5c19-4cd1-8a17-6667626db3ba.htm">
+          <HelpTOCNode Id="bce5bcd4-9fcf-4ced-8986-b15ef0277a3b" Title="AddToDictonary Method " Url="html/bf2fa8d0-226f-7274-0506-4028572605ac.htm">
+            <HelpTOCNode Title="AddToDictonary Method (String, User)" Url="html/493f515c-b3c7-73a9-e14e-43efbc206b07.htm" />
+            <HelpTOCNode Title="AddToDictonary Method (String, TcpClient)" Url="html/aa717a20-5504-f8c1-0d74-f0950c488fa7.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="CheckDictionary Method " Url="html/39dc1a08-be44-326a-27a8-cf1689ec0901.htm" />
+          <HelpTOCNode Title="CheckPassword Method " Url="html/c6a369df-24d0-72d3-2794-d514ee29358d.htm" />
+          <HelpTOCNode Title="GetFromClientDictonary Method " Url="html/624a87ff-4b09-4121-88cf-b3aff018d3f8.htm" />
+          <HelpTOCNode Title="GetFromUsersDictonary Method " Url="html/31405065-f360-dead-8388-62a5d8a62d07.htm" />
+          <HelpTOCNode Title="GetUsers Method " Url="html/2b435b93-71c9-2be5-ffc7-f73dbd0335d5.htm" />
+          <HelpTOCNode Title="HandleClientRequest Method " Url="html/01925421-7a4d-5657-81c5-c22186503f47.htm" />
+          <HelpTOCNode Title="Initialize Method " Url="html/73a83b99-cb64-a431-70e9-220a0366f1f4.htm" />
+          <HelpTOCNode Title="RemoveFromDictonary Method " Url="html/69f18f99-c5a9-e01d-c5de-6c91dd94528f.htm" />
+          <HelpTOCNode Title="SaveUsers Method " Url="html/a2e29c82-6703-9c7d-5bb9-3ca8c1c48353.htm" />
+          <HelpTOCNode Title="Server_requestReceived Method " Url="html/87e97264-a0b7-f192-6fc8-c987b38fc984.htm" />
+          <HelpTOCNode Title="UpdateList Method " Url="html/888e3a11-fc2a-82c9-264d-45502d867677.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6927a6cb-a67e-4ccb-8ab6-56fa515a11f6" Title="Server Events" Url="html/50f70a2b-6f83-3271-e47b-9b64d99133e4.htm">
+          <HelpTOCNode Title="requestReceived Event" Url="html/5c17c01b-f7b5-f774-aaaf-2b77481f4791.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

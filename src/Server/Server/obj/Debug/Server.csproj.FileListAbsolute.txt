@@ -1,0 +1,38 @@
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\bin\Debug\Server.dll
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\bin\Debug\Server.pdb
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\obj\Debug\Server.dll
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\obj\Debug\Server.pdb
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\bin\Debug\Messages.dll
+c:\users\jakub\documents\visual studio 2015\Projects\PKRY\Server\Server\bin\Debug\Messages.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\bin\Debug\Server.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\bin\Debug\Server.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\bin\Debug\Messages.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\bin\Debug\Messages.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\obj\Debug\Server.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\Server\obj\Debug\Server.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\obj\Debug\Server.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\obj\Debug\Server.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\bin\Debug\Server.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\bin\Debug\Server.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\bin\Debug\Messages.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\bin\Debug\Messages.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\Server\bin\Debug\Server.XML
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Debug\Server.XML
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Debug\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Debug\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Debug\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Debug\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\obj\Debug\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\obj\Debug\Server.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Debug\Server.XML
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Debug\Server.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Debug\Server.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Debug\Messages.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Debug\Messages.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\obj\Debug\Server.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,26 @@
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\Messages\bin\Debug\Messages.dll
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\Messages\bin\Debug\Messages.pdb
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\Messages\obj\Debug\Messages.dll
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\Messages\obj\Debug\Messages.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Messages\bin\Debug\Messages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Messages\bin\Debug\Messages.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Messages\obj\Debug\Messages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Messages\obj\Debug\Messages.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\PKRY\Server\Messages\bin\Debug\Messages.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\Messages\bin\Debug\Messages.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\PKRY\Server\Messages\obj\Debug\Messages.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\Messages\obj\Debug\Messages.pdb
+C:\Users\Jakub\Desktop\Client\Messages\bin\Debug\Messages.dll
+C:\Users\Jakub\Desktop\Client\Messages\bin\Debug\Messages.pdb
+C:\Users\Jakub\Desktop\Client\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Client\Messages\obj\Debug\Messages.dll
+C:\Users\Jakub\Desktop\Client\Messages\obj\Debug\Messages.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Client\Messages\bin\Debug\Messages.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Client\Messages\bin\Debug\Messages.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Client\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\PKRY\Bańka Final\Client\Messages\obj\Debug\Messages.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Client\Messages\obj\Debug\Messages.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Client\Messages\bin\Debug\Messages.XML

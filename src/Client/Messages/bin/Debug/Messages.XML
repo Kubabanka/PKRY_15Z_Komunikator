@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Messages</name>
+    </assembly>
+    <members>
+        <member name="T:Messages.Message">
+            <summary>
+            klasa definiujaca podstawowy typ przesylanej wiadomosci
+            </summary>
+        </member>
+        <member name="F:Messages.Message.sender">
+            <summary>
+            nadawca wiadomosci
+            </summary>
+        </member>
+        <member name="P:Messages.Message.Sender">
+            <summary>
+            zwraca pole prywatne sender
+            </summary>
+        </member>
+        <member name="F:Messages.Message.receiver">
+            <summary>
+            adresat wiadomosci
+            </summary>
+        </member>
+        <member name="P:Messages.Message.Receiver">
+            <summary>
+            zwraca pole prywatne receiver
+            </summary>
+        </member>
+        <member name="F:Messages.Message.data">
+            <summary>
+            tresc wiadomosci
+            </summary>
+        </member>
+        <member name="F:Messages.Message.signature">
+            <summary>
+            podpis cyfrowy
+            </summary>
+        </member>
+        <member name="P:Messages.Message.Signature">
+            <summary>
+            zwraca pole prywatne signature
+            </summary>
+        </member>
+        <member name="M:Messages.Message.#ctor">
+            <summary>
+            konstruktor podstawowy obiektu Message
+            </summary>
+        </member>
+        <member name="M:Messages.Message.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            konstruktor obiektu Message
+            </summary>
+            <param name="sender">nadawca wiadomosci</param>
+            <param name="receiver">adresat wiadomosci</param>
+            <param name="data">tresc wiadomosci</param>
+            <param name="sign">podpis cyfrowy</param>
+        </member>
+        <member name="T:Messages.MessageSerializer">
+            <summary>
+            klasa do serilizacji i deserializacji wiadomosci
+            </summary>
+        </member>
+        <member name="M:Messages.MessageSerializer.Deserialize(System.String,System.Type)">
+            <summary>
+            metoda do deserializacji wiadomosci
+            </summary>
+            <param name="message">
+            wiadomosc do deserializacji</param>
+            <param name="type">
+            typ deserializowanej wiadomosci</param>
+            <returns>
+            zdeserializwowana wiadomosc
+            </returns>
+        </member>
+        <member name="M:Messages.MessageSerializer.Serialize(System.Object,System.Type)">
+            <summary>
+            metoda do serializacji wiadomosci
+            </summary>
+            <param name="message">
+            wiadomosc do serializacji
+            </param>
+            <param name="type">
+            typ serializowanej wiadomosci
+            </param>
+            <returns>
+            zserializowana wiadomosc
+            </returns>
+        </member>
+        <member name="T:Messages.RegisterMessage">
+             <summary>
+            klasa definiujaca typ wiadomosci rejestracyjnej 
+             </summary>
+        </member>
+        <member name="F:Messages.RegisterMessage.username">
+            <summary>
+            nazwa uzytkownika
+            </summary>
+        </member>
+        <member name="P:Messages.RegisterMessage.Username">
+            <summary>
+            zwraca pole prywatne username
+            </summary>
+        </member>
+        <member name="F:Messages.RegisterMessage.isRegistered">
+            <summary>
+            wartosc mowiaca czy uzytkownik jest zarejestrowany
+            </summary>
+        </member>
+        <member name="P:Messages.RegisterMessage.IsRegistred">
+            <summary>
+            zwraca pole prywatne isRegistered
+            </summary>
+        </member>
+        <member name="F:Messages.RegisterMessage.password">
+            <summary>
+            haslo
+            </summary>
+        </member>
+        <member name="P:Messages.RegisterMessage.Password">
+            <summary>
+            zwraca pole prywatne password
+            </summary>
+        </member>
+        <member name="F:Messages.RegisterMessage.publicKey">
+            <summary>
+            klucz publiczny RSA
+            </summary>
+        </member>
+        <member name="P:Messages.RegisterMessage.PublicKey">
+            <summary>
+            zwraca pole prywatne publicKey
+            </summary>
+        </member>
+        <member name="M:Messages.RegisterMessage.#ctor">
+            <summary>
+            konstruktor podstawowy obiektu RegisterMessage
+            </summary>
+        </member>
+        <member name="M:Messages.RegisterMessage.#ctor(System.String,System.String,System.Security.Cryptography.RSAParameters,System.Boolean)">
+            <summary>
+            konstruktor obiektu RegisterMessage
+            </summary>
+            <param name="name">nazwa uzytkownika</param>
+            <param name="password">haslo</param>
+            <param name="publicKey">klucz publiczny RSA</param>
+            <param name="registered">czy zarejestrowany</param>
+        </member>
+        <member name="T:Messages.Security">
+            <summary>
+            klasa definiujaca metody do szyfrowania i deszyfrowania wiadomosci
+            </summary>
+        </member>
+        <member name="M:Messages.Security.RSADecrypt(System.Byte[],System.Security.Cryptography.RSAParameters,System.Boolean)">
+            <summary>
+            metoda do deszyfrowania danych algorytmen RSA
+            </summary>
+            <param name="DataToDecrypt">dane do zaszyfrowania</param>
+            <param name="RSAKeyInfo">klucze RSA</param>
+            <param name="DoOAEPPadding">czy stosowac wypelnienie typu OAEP</param>
+            <returns>odszyfrowana tablica bajtow</returns>
+        </member>
+        <member name="M:Messages.Security.RSAEncrypt(System.Byte[],System.Security.Cryptography.RSAParameters,System.Boolean)">
+            <summary>
+            metoda do deszyfrowania danych algorytmem RSA
+            </summary>
+            <param name="DataToEncrypt">dane do zaszyfrowania</param>
+            <param name="RSAKeyInfo">klucze RSA</param>
+            <param name="DoOAEPPadding">czy stosowac wypelnienie typu OAEP</param>
+            <returns>zaszyfrowana tablica bajtow</returns>
+        </member>
+        <member name="M:Messages.Security.AESEncrypt(System.String,System.Byte[],System.Byte[])">
+            <summary>
+            metoda do szyfrowania danych algorytmen AES
+            </summary>
+            <param name="text">dane do zaszyfrowania</param>
+            <param name="key">klucz tajny AES</param>
+            <param name="iv">wektor inicjalizacji</param>
+            <returns>zaszyfrowana tablica bajtow</returns>
+        </member>
+        <member name="M:Messages.Security.AESDecrypt(System.Byte[],System.Byte[],System.Byte[])">
+            <summary>
+            metoda do deszyfrowania danych algorytmen AES
+            </summary>
+            <param name="cipher">dane do odszyfrowania</param>
+            <param name="key">klucz tajny AES</param>
+            <param name="iv">>wektor inicjalizacji</param>
+            <returns>odeszyfrowana tablica bajtow></returns>
+        </member>
+        <member name="M:Messages.Security.EncryptMessage(Messages.Message,System.Security.Cryptography.RSAParameters)">
+            <summary>
+            metoda do szyfrowania wiadomosci algorytmen RSA
+            </summary>
+            <param name="message">wiadomosc do zaszyfrowania</param>
+            <param name="keyInfo">klucze RSA</param>
+            <returns>zserializowana i zaszyfrowana wiadomosc</returns>
+        </member>
+        <member name="M:Messages.Security.DecryptMessage(Messages.Message,System.Security.Cryptography.RSAParameters)">
+            <summary>
+            metoda do deszyfrowania wiadomosci algorytmen RSA
+            </summary>
+            <param name="message">wiadomosc do odszyfrowania</param>
+            <param name="keyInfo">klucze RSA</param>
+            <returns>zserializowana i odszyfrowana wiadomosc</returns>
+        </member>
+        <member name="M:Messages.Security.EncryptMessage(Messages.Message,System.Security.Cryptography.RSAParameters,System.Byte[],System.Byte[])">
+            <summary>
+            metoda do szyfrowania wiadomosci algorytmen AES
+            </summary>
+            <param name="message">wiadomosc do zaszyfrowania</param>
+            <param name="rsaKeyInfo">klucze RSA</param>
+            <param name="aesKey">klucz tajny AES</param>
+            <param name="aesIV">wektor inicjalizacji</param>
+            <returns>zserializowana i zaszyfrowana wiadomosc</returns>
+        </member>
+        <member name="M:Messages.Security.DecryptMessage(Messages.Message,System.Security.Cryptography.RSAParameters,System.Byte[],System.Byte[])">
+            <summary>
+            metoda do deszyfrowania wiadomosci algorytmen AES
+            </summary>
+            <param name="message">wiadomosc do odszyfrowania</param>
+            <param name="rsaKeyInfo">klucze RSA</param>
+            <param name="aesKey">klucz tajny AES</param>
+            <param name="aesIV">wektor inicjalizacji</param>
+            <returns>zserializowana i odszyfrowana wiadomosc</returns>
+        </member>
+        <member name="M:Messages.Security.EncryptMessage(Messages.RegisterMessage,System.Security.Cryptography.RSAParameters)">
+            <summary>
+            metoda do szyfrowania wiadomosci rejestracyjnej algorytmen RSa
+            </summary>
+            <param name="message">wiadomosc do zaszyfrowania</param>
+            <param name="keyInfo">klucze RSA</param>
+            <returns>zserializowana i zaszyfrowana wiadomosc</returns>
+        </member>
+        <member name="M:Messages.Security.DecryptMessage(Messages.RegisterMessage,System.Security.Cryptography.RSAParameters)">
+            <summary>
+            metoda do szyfrowania wiadomosci rejestracyjnej algorytmen RSa
+            </summary>
+            <param name="message">wiadomosc do odszyfrowania</param>
+            <param name="keyInfo">klucze RSA</param>
+            <returns>zserializowana i odszyfrowana wiadomosc</returns>
+        </member>
+        <member name="T:Messages.StartConversationReplyMessage">
+            <summary>
+            klasa definiujaca wiadomosc, za pomoca ktorej rozsylane sa tajne klucze RSA
+            </summary>
+        </member>
+        <member name="F:Messages.StartConversationReplyMessage.iv">
+            <summary>
+            wektor inicjalizacji
+            </summary>
+        </member>
+        <member name="P:Messages.StartConversationReplyMessage.IV">
+            <summary>
+            zwraca pole prywatne iv
+            </summary>
+        </member>
+        <member name="F:Messages.StartConversationReplyMessage.key">
+            <summary>
+            klucz tajny AES
+            </summary>
+        </member>
+        <member name="P:Messages.StartConversationReplyMessage.Key">
+            <summary>
+            zwraca pole prywatne key
+            </summary>
+        </member>
+        <member name="M:Messages.StartConversationReplyMessage.#ctor">
+            <summary>
+            konstruktor podstawowy obiektu StartConversationReplyMessage
+            </summary>
+        </member>
+        <member name="M:Messages.StartConversationReplyMessage.#ctor(System.String,System.Byte[],System.Byte[])">
+            <summary>
+            konstruktor obiektu StartConversationReplyMessage
+            </summary>
+            <param name="receiver">adresat</param>
+            <param name="Key">klucz tajny AES</param>
+            <param name="IV">wektor inicjalizacji</param>
+        </member>
+        <member name="M:Messages.StartConversationReplyMessage.#ctor(System.String,System.Byte[],System.Byte[],System.String)">
+            <summary>
+            konstruktor obiektu StartConversationReplyMessage
+            </summary>
+            <param name="receiver">adresat</param>
+            <param name="Key">klucz tajny AES</param>
+            <param name="IV">wektor inicjalizacji</param>
+            <param name="data">dane</param>
+        </member>
+        <member name="T:Messages.User">
+            <summary>
+            klasa definiajaca uzytkownika komunikatora
+            </summary>
+        </member>
+        <member name="F:Messages.User.username">
+            <summary>
+            nazwa uzytkownika
+            </summary>
+        </member>
+        <member name="P:Messages.User.Username">
+            <summary>
+            zwraca pole prywatne username
+            </summary>
+        </member>
+        <member name="F:Messages.User.password">
+            <summary>
+            haslo
+            </summary>
+        </member>
+        <member name="P:Messages.User.Password">
+            <summary>
+            zwraca pole prywatne password
+            </summary>
+        </member>
+        <member name="F:Messages.User.rsaKeys">
+            <summary>
+            klucze RSA
+            </summary>
+        </member>
+        <member name="P:Messages.User.RSAKeys">
+            <summary>
+            zwraca pole prywatne publicKey
+            </summary>
+        </member>
+        <member name="M:Messages.User.#ctor">
+            <summary>
+            konstruktor podstawowy obiektu User
+            </summary>
+        </member>
+        <member name="M:Messages.User.#ctor(System.String,System.String,System.Security.Cryptography.RSAParameters)">
+            <summary>
+            konstruktor obiektu User
+            </summary>
+            <param name="name">nazwa uzytkownika</param>
+            <param name="pass">haslo</param>
+            <param name="keys">klucze RSA</param>
+        </member>
+    </members>
+</doc>

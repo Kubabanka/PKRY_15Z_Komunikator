@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Server</name>
+    </assembly>
+    <members>
+        <member name="T:Server.RequestEventArgs">
+            <summary>
+            klasa definiujaca argumenty zdarzenia przyjscia wiadomosci
+            </summary>
+        </member>
+        <member name="F:Server.RequestEventArgs.username">
+            <summary>
+            nazwa uzytkownika
+            </summary>
+        </member>
+        <member name="P:Server.RequestEventArgs.Username">
+            <summary>
+            zwraca prywatne pole username
+            </summary>
+        </member>
+        <member name="F:Server.RequestEventArgs.message">
+            <summary>
+            wiadomosc
+            </summary>
+        </member>
+        <member name="P:Server.RequestEventArgs.Message">
+            <summary>
+            zwraca prywatne pole wiadomosc
+            </summary>
+        </member>
+        <member name="M:Server.RequestEventArgs.#ctor(System.String,System.String)">
+            <summary>
+            konstruktor obiektu RequestEventArgs
+            </summary>
+            <param name="name">nazwa uzytkownika</param>
+            <param name="data">wiadomosc</param>
+        </member>
+        <member name="T:Server.Server">
+            <summary>
+            klasa definiujaca serwer TCP obslugujacy zdarzenia
+            </summary>
+        </member>
+        <member name="F:Server.Server.onlineClients">
+            <summary>
+            slownik przechowujacy gniazda TCP zalogowanych klientow
+            </summary>
+        </member>
+        <member name="F:Server.Server.usersInformation">
+            <summary>
+            slownik przechowujacy wszystkich uzytkownikow
+            </summary>
+        </member>
+        <member name="F:Server.Server.hashAlgorithm">
+            <summary>
+            algorytm hashujacy
+            </summary>
+        </member>
+        <member name="E:Server.Server.requestReceived">
+            <summary>
+            zdarzenie wywolujace sie po odebraniu wiadomosci
+            </summary>
+        </member>
+        <member name="F:Server.Server.syncRoot">
+            <summary>
+            obiekt sluzacy do zblokowania watkow
+            </summary>
+        </member>
+        <member name="F:Server.Server.aesKeyGenerator">
+            <summary>
+            generator kluczy AES
+            </summary>
+        </member>
+        <member name="F:Server.Server.rsaKeyGenerator">
+            <summary>
+            generator kluczy RSA
+            </summary>
+        </member>
+        <member name="M:Server.Server.#ctor">
+            <summary>
+            konstruktor obiektu Server 
+            </summary>
+        </member>
+        <member name="M:Server.Server.Initialize">
+            <summary>
+            metoda inicjalizujaca server
+            </summary>
+        </member>
+        <member name="M:Server.Server.GetUsers">
+            <summary>
+            metoda sluzaca do pobrania uzytkownikow z pliku XML
+            </summary>
+            <returns>slownik zawierajacy uzytkownikow </returns>
+        </member>
+        <member name="M:Server.Server.HandleClientRequest(System.Object)">
+            <summary>
+            metoda efiniujaca przyjscie zadan klienta
+            </summary>
+            <param name="obj">zdarzenie przyjscia zadania klienta</param>
+        </member>
+        <member name="M:Server.Server.CheckPassword(System.String,System.String)">
+            <summary>
+            metoda do weryfikacji hasla uzytkownika
+            </summary>
+            <param name="name">nazwa uzytkownika</param>
+            <param name="pass">haslo</param>
+            <returns>wartos true, gdy haslo jest poprawne i false, gdy haslo jest niepoprawne</returns>
+        </member>
+        <member name="M:Server.Server.SaveUsers">
+            <summary>
+            metoda sluzaca do zapisywania informacji o uzytkownikach do pliku XML
+            </summary>
+        </member>
+        <member name="M:Server.Server.UpdateList">
+            <summary>
+            metoda sluzaca do rozeslania listy dostepnych uzytkownikow do zalogowanych uzytkownikow
+            </summary>
+        </member>
+        <member name="M:Server.Server.Server_requestReceived(System.Object,Server.RequestEventArgs)">
+            <summary>
+            metoda do obslugi przyjscia zadania od klienta
+            </summary>
+            <param name="sender">nadawca zdarzenia</param>
+            <param name="e">zdarzenie przyjscia wiadomosci od klienta</param>
+        </member>
+        <member name="M:Server.Server.CheckDictionary(System.String)">
+            <summary>
+            metoda do przeszukiwnania slownika
+            </summary>
+            <param name="key">klucz przeszukiwania slownika</param>
+            <returns>wartosc true, gdy uzytkownik znajduje sie w obu slownikach lub wartosc false gdy nie znajduje sie w ktoryms z nich</returns>
+        </member>
+        <member name="M:Server.Server.AddToDictonary(System.String,System.Net.Sockets.TcpClient)">
+            <summary>
+            metoda sluzaca do dodawania uzytkownika do slownika klientow online
+            </summary>
+            <param name="key">klucz dodawania do slownika</param>
+            <param name="value">klient TCP, ktorego odajemy do slownika klientow online</param>
+        </member>
+        <member name="M:Server.Server.AddToDictonary(System.String,Messages.User)">
+            <summary>
+            metoda sluzaca do dodawania uzytkownika do slownika klientow
+            </summary>
+            <param name="key">klucz dodawania do slownika</param>
+            <param name="value">uzytkownik, ktorego dodajemy do slownika uzytkownikow</param>
+        </member>
+        <member name="M:Server.Server.RemoveFromDictonary(System.String)">
+            <summary>
+            metoda do usuwania uzytkownikow ze slownika uzytkownikow online
+            </summary>
+            <param name="key">klucz usuwania ze slownika uzytkownikow online</param>
+        </member>
+        <member name="M:Server.Server.GetFromClientDictonary(System.String)">
+            <summary>
+            metoda do pobierania danego uzytkownika online ze slownika uzytkownikow online
+            </summary>
+            <param name="key">parametr przeszukiwania slownika</param>
+            <returns>socket danego uzytkownika online</returns>
+        </member>
+        <member name="M:Server.Server.GetFromUsersDictonary(System.String)">
+            <summary>
+            metoda do pobierania danego uzytkownika ze slownika uzytkownikow
+            </summary>
+            <param name="key">parametr przeszukiwania slownika</param>
+            <returns>danego uzytkownika</returns>
+        </member>
+    </members>
+</doc>

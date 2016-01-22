@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddOrUpdateAesDictionary method" Url="html/9e7fbf99-8229-66b1-be1f-61734cf906da.htm" />
+  <HelpKINode Title="AddOrUpdateDictionary method" Url="html/135ec216-d43a-6c16-c652-b7cf3d2d5c95.htm" />
+  <HelpKINode Title="AddToDictonary method" Url="html/bf2fa8d0-226f-7274-0506-4028572605ac.htm" />
+  <HelpKINode Title="AESDecrypt method" Url="html/e9a758b0-72f9-e32b-4343-a197f372a2be.htm" />
+  <HelpKINode Title="aesDictionary field" Url="html/701d400b-dd18-1839-8363-bba46ef1d198.htm" />
+  <HelpKINode Title="AESEncrypt method" Url="html/9c188306-c36d-1eab-1165-d215c3e829ac.htm" />
+  <HelpKINode Title="aesKeyGenerator field" Url="html/28c1ca11-bcc8-7d9d-8e57-5a006ee1a890.htm" />
+  <HelpKINode Title="ChangeText method" Url="html/bbd797ab-9935-045d-e5fe-9dad98ee35fb.htm" />
+  <HelpKINode Title="chats field" Url="html/27042767-eba3-c343-f105-5cfa821804cc.htm" />
+  <HelpKINode Title="CheckAesDictionary method" Url="html/9090eab1-8d5d-9b1e-5d9b-d005edbca7a1.htm" />
+  <HelpKINode Title="CheckDictionary method">
+    <HelpKINode Title="Messenger.CheckDictionary Method " Url="html/1c03c170-da75-34e3-e18c-4f1eac9e927c.htm" />
+    <HelpKINode Title="Server.CheckDictionary Method " Url="html/39dc1a08-be44-326a-27a8-cf1689ec0901.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CheckPassword method" Url="html/c6a369df-24d0-72d3-2794-d514ee29358d.htm" />
+  <HelpKINode Title="client field" Url="html/8143cba8-8ca7-6ae6-0188-6cdbd03390fc.htm" />
+  <HelpKINode Title="Client namespace" Url="html/cc68001d-30e4-af22-a802-b877b772ba65.htm" />
+  <HelpKINode Title="Client.FormExtentions class" Url="html/a28f9008-605b-1680-91bc-afc988b2b675.htm" />
+  <HelpKINode Title="Client.MessageReceivedEventArgs class" Url="html/59ef94df-aabd-5431-6bac-06610d97a32a.htm" />
+  <HelpKINode Title="Client.Messenger class" Url="html/e57f8681-f6ef-028c-4de6-6dae120a1d18.htm" />
+  <HelpKINode Title="Client.Program class" Url="html/1624a5c5-95c9-08c7-c79b-4b895ca4bd71.htm" />
+  <HelpKINode Title="components field" Url="html/ae8f5da0-31f8-2321-4f75-e1e71990970c.htm" />
+  <HelpKINode Title="data field" Url="html/bca33d01-797b-a8d6-67b9-e292c64c1bb0.htm" />
+  <HelpKINode Title="DecryptMessage method" Url="html/3d4fe2fd-789e-e1b2-ac55-91a31a148685.htm" />
+  <HelpKINode Title="Deserialize method" Url="html/90e8e57f-d194-a470-566d-f2fce07ded55.htm" />
+  <HelpKINode Title="Dispose method" Url="html/d3f71d69-32e8-4892-bfac-4864a1d08147.htm" />
+  <HelpKINode Title="EnableButton method" Url="html/d5239975-ffd0-767f-234f-07f7e9950ea1.htm" />
+  <HelpKINode Title="EncryptMessage method" Url="html/62b6c9c7-2d4f-7df7-0f40-166bd71acbd4.htm" />
+  <HelpKINode Title="Form1_FormClosing method" Url="html/2d0f8ff1-7875-b2df-3ae0-84f1ccd26970.htm" />
+  <HelpKINode Title="Form1_messageReceived method" Url="html/9f600997-4fdd-90c5-537a-0586482859b4.htm" />
+  <HelpKINode Title="FormExtentions class">
+    <HelpKINode Title="FormExtentions Class" Url="html/a28f9008-605b-1680-91bc-afc988b2b675.htm" />
+    <HelpKINode Title="about FormExtentions class" Url="html/a28f9008-605b-1680-91bc-afc988b2b675.htm" />
+    <HelpKINode Title="methods" Url="html/aee29a1b-fb4d-5985-40e3-6947ea0d4515.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormExtentions.ChangeText method" Url="html/bbd797ab-9935-045d-e5fe-9dad98ee35fb.htm" />
+  <HelpKINode Title="FormExtentions.EnableButton method" Url="html/d5239975-ffd0-767f-234f-07f7e9950ea1.htm" />
+  <HelpKINode Title="GetAes method" Url="html/d6f0def7-70e0-62f7-bd61-675936a8597a.htm" />
+  <HelpKINode Title="GetAesKey method" Url="html/8a563670-4011-4944-ad7b-ba46f55f04a6.htm" />
+  <HelpKINode Title="GetFromClientDictonary method" Url="html/624a87ff-4b09-4121-88cf-b3aff018d3f8.htm" />
+  <HelpKINode Title="GetFromDictionary method" Url="html/44db8e1f-45a0-112f-f6a0-d722c41e5f21.htm" />
+  <HelpKINode Title="GetFromUsersDictonary method" Url="html/31405065-f360-dead-8388-62a5d8a62d07.htm" />
+  <HelpKINode Title="GetSender method" Url="html/36e492a1-13aa-19de-5e96-aaa1929bdd55.htm" />
+  <HelpKINode Title="GetUsers method" Url="html/2b435b93-71c9-2be5-ffc7-f73dbd0335d5.htm" />
+  <HelpKINode Title="HandleClientRequest method" Url="html/01925421-7a4d-5657-81c5-c22186503f47.htm" />
+  <HelpKINode Title="hashAlgorithm field">
+    <HelpKINode Title="Messenger.hashAlgorithm Field" Url="html/3e72ab2f-2187-b854-573d-ab37d4266c07.htm" />
+    <HelpKINode Title="Server.hashAlgorithm Field" Url="html/5fb7d579-0bc9-3ac5-4d51-982753fae3a5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Initialize method" Url="html/73a83b99-cb64-a431-70e9-220a0366f1f4.htm" />
+  <HelpKINode Title="InitializeComponent method" Url="html/791441ea-2a4b-dc99-9e57-7e8a97aecd81.htm" />
+  <HelpKINode Title="isRegistered field" Url="html/77312306-4239-0b92-8823-2645350fb36d.htm" />
+  <HelpKINode Title="IsRegistred property" Url="html/45523e91-4057-7e8e-3163-a4c6ca0b4fff.htm" />
+  <HelpKINode Title="iv field" Url="html/3f7b08b6-e976-e2cf-c2c2-0bfebb964e58.htm" />
+  <HelpKINode Title="IV property" Url="html/de9643ce-d5c1-bee4-bc29-421188a9bbff.htm" />
+  <HelpKINode Title="key field" Url="html/0235fa08-b93d-7eed-cafd-01ec22529555.htm" />
+  <HelpKINode Title="Key property" Url="html/66306b56-226e-6c61-3164-49bf0a55b47b.htm" />
+  <HelpKINode Title="loggedIn field" Url="html/c05a62d1-cca3-e76f-e10f-b7fd9d21d9e0.htm" />
+  <HelpKINode Title="Login method" Url="html/adc1cbda-8254-e4e8-a217-d5b88307f8e5.htm" />
+  <HelpKINode Title="loginButton field" Url="html/2871dcdd-f667-be04-6b0c-b80a31ed89f3.htm" />
+  <HelpKINode Title="loginButton_Click method" Url="html/8ddc570b-add1-71ce-ae1c-4a29091c692a.htm" />
+  <HelpKINode Title="loginLabel field" Url="html/5aa9884c-971d-fe2d-62ae-9fd8b3bb577c.htm" />
+  <HelpKINode Title="loginPage field" Url="html/25ec5cde-a340-5420-2c27-167a03cd7590.htm" />
+  <HelpKINode Title="loginRadioButton field" Url="html/65bb3ca6-6965-4e08-4841-89f76fd25220.htm" />
+  <HelpKINode Title="loginTextBox field" Url="html/64d6171d-7c46-aca2-ef64-792cacc57bc4.htm" />
+  <HelpKINode Title="Main method" Url="html/d45004e6-f126-75f3-c96d-4cc97d786056.htm" />
+  <HelpKINode Title="Message class">
+    <HelpKINode Title="Message Class" Url="html/2071554a-fced-813d-4773-09df0f831515.htm" />
+    <HelpKINode Title="about Message class" Url="html/2071554a-fced-813d-4773-09df0f831515.htm" />
+    <HelpKINode Title="constructor" Url="html/11e9e7d4-d5cb-fbab-92bd-6384ab425ef2.htm" />
+    <HelpKINode Title="fields" Url="html/e99e5e1c-7858-d055-865d-0aaf9e0f8597.htm" />
+    <HelpKINode Title="properties" Url="html/9b6b59ef-983f-1a08-c3d2-0d433dc937c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="message field">
+    <HelpKINode Title="MessageReceivedEventArgs.message Field" Url="html/7d2c6e5f-30e7-a4c3-decf-2d693156dc54.htm" />
+    <HelpKINode Title="RequestEventArgs.message Field" Url="html/cc6a64d3-fb77-3860-e76f-24a447c926da.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Message property">
+    <HelpKINode Title="MessageReceivedEventArgs.Message Property " Url="html/1a84863d-2fe2-ef55-269a-2954317b91b8.htm" />
+    <HelpKINode Title="RequestEventArgs.Message Property " Url="html/8cfd2386-cf61-a2c8-f843-4934ba725d65.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Message.data field" Url="html/bca33d01-797b-a8d6-67b9-e292c64c1bb0.htm" />
+  <HelpKINode Title="Message.Message constructor" Url="html/11e9e7d4-d5cb-fbab-92bd-6384ab425ef2.htm" />
+  <HelpKINode Title="Message.receiver field" Url="html/07710635-efdd-878f-4677-1bccf5ea1262.htm" />
+  <HelpKINode Title="Message.Receiver property" Url="html/c96201de-65e5-edfc-1daf-a0266466c166.htm" />
+  <HelpKINode Title="Message.sender field" Url="html/ff0d7d34-3dad-6f9f-407b-f1c848b0196b.htm" />
+  <HelpKINode Title="Message.Sender property" Url="html/ea9ac480-dff4-bffc-3317-7274491fc88d.htm" />
+  <HelpKINode Title="Message.signature field" Url="html/ace51769-c8d5-f709-b043-a61aec099100.htm" />
+  <HelpKINode Title="Message.Signature property" Url="html/31efdc6e-0c8e-a101-509b-9bbaa828218a.htm" />
+  <HelpKINode Title="MessageInputTextBox field" Url="html/fad439a7-0ef1-e947-71a4-4f47124dd4b9.htm" />
+  <HelpKINode Title="MessageInputTextBox_KeyPress method" Url="html/c9a478b6-185c-e95f-ea60-4727da77b5d2.htm" />
+  <HelpKINode Title="MessageInputTextBox_KeyUp method" Url="html/d11d95f3-3ec7-f63f-bfea-8f2649db2917.htm" />
+  <HelpKINode Title="messageReceived event" Url="html/65a0cca7-6890-e5aa-d40d-bb3c65acdab2.htm" />
+  <HelpKINode Title="MessageReceivedEventArgs class">
+    <HelpKINode Title="MessageReceivedEventArgs Class" Url="html/59ef94df-aabd-5431-6bac-06610d97a32a.htm" />
+    <HelpKINode Title="about MessageReceivedEventArgs class" Url="html/59ef94df-aabd-5431-6bac-06610d97a32a.htm" />
+    <HelpKINode Title="constructor" Url="html/1114deb1-62a4-1430-6e47-4b985c8207b6.htm" />
+    <HelpKINode Title="fields" Url="html/e6c1628a-871f-3d1e-cc70-2167f4e760c7.htm" />
+    <HelpKINode Title="properties" Url="html/7c7b2846-55de-cf4c-507c-1ff683291f9f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageReceivedEventArgs.message field" Url="html/7d2c6e5f-30e7-a4c3-decf-2d693156dc54.htm" />
+  <HelpKINode Title="MessageReceivedEventArgs.Message property" Url="html/1a84863d-2fe2-ef55-269a-2954317b91b8.htm" />
+  <HelpKINode Title="MessageReceivedEventArgs.MessageReceivedEventArgs constructor" Url="html/1114deb1-62a4-1430-6e47-4b985c8207b6.htm" />
+  <HelpKINode Title="Messages namespace" Url="html/57197301-4693-466f-6994-e9c984114434.htm" />
+  <HelpKINode Title="Messages.Message class" Url="html/2071554a-fced-813d-4773-09df0f831515.htm" />
+  <HelpKINode Title="Messages.MessageSerializer class" Url="html/a80521e5-4f45-6277-a22a-efcc69727d2e.htm" />
+  <HelpKINode Title="Messages.RegisterMessage class" Url="html/45177608-b4e0-390e-d573-aa84030c4549.htm" />
+  <HelpKINode Title="Messages.Security class" Url="html/7c1ffdd5-452e-66e1-5491-958d2f132008.htm" />
+  <HelpKINode Title="Messages.StartConversationReplyMessage class" Url="html/4575ae1b-9d54-1e00-7f11-ec3896338649.htm" />
+  <HelpKINode Title="Messages.User class" Url="html/d7fc3d3b-b7b4-c6a2-b60d-c1d0d5d6c429.htm" />
+  <HelpKINode Title="MessageSerializer class">
+    <HelpKINode Title="MessageSerializer Class" Url="html/a80521e5-4f45-6277-a22a-efcc69727d2e.htm" />
+    <HelpKINode Title="about MessageSerializer class" Url="html/a80521e5-4f45-6277-a22a-efcc69727d2e.htm" />
+    <HelpKINode Title="methods" Url="html/53d5511d-8177-3b3f-b85a-4da5eddb44fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageSerializer.Deserialize method" Url="html/90e8e57f-d194-a470-566d-f2fce07ded55.htm" />
+  <HelpKINode Title="MessageSerializer.Serialize method" Url="html/ecf59286-a026-e155-4c35-d478bae3be76.htm" />
+  <HelpKINode Title="Messenger class">
+    <HelpKINode Title="Messenger Class" Url="html/e57f8681-f6ef-028c-4de6-6dae120a1d18.htm" />
+    <HelpKINode Title="about Messenger class" Url="html/e57f8681-f6ef-028c-4de6-6dae120a1d18.htm" />
+    <HelpKINode Title="constructor" Url="html/b12c8594-fdca-48f1-5799-fc6d8cf28392.htm" />
+    <HelpKINode Title="events" Url="html/3a255b33-3e25-7867-8227-2d00eb7687e3.htm" />
+    <HelpKINode Title="fields" Url="html/321941a4-9541-c8c2-52aa-c6b92e509a41.htm" />
+    <HelpKINode Title="methods" Url="html/0821fac7-bb44-b893-1554-fac04a3cb266.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Messenger.AddOrUpdateAesDictionary method" Url="html/9e7fbf99-8229-66b1-be1f-61734cf906da.htm" />
+  <HelpKINode Title="Messenger.AddOrUpdateDictionary method" Url="html/135ec216-d43a-6c16-c652-b7cf3d2d5c95.htm" />
+  <HelpKINode Title="Messenger.aesDictionary field" Url="html/701d400b-dd18-1839-8363-bba46ef1d198.htm" />
+  <HelpKINode Title="Messenger.chats field" Url="html/27042767-eba3-c343-f105-5cfa821804cc.htm" />
+  <HelpKINode Title="Messenger.CheckAesDictionary method" Url="html/9090eab1-8d5d-9b1e-5d9b-d005edbca7a1.htm" />
+  <HelpKINode Title="Messenger.CheckDictionary method" Url="html/1c03c170-da75-34e3-e18c-4f1eac9e927c.htm" />
+  <HelpKINode Title="Messenger.client field" Url="html/8143cba8-8ca7-6ae6-0188-6cdbd03390fc.htm" />
+  <HelpKINode Title="Messenger.components field" Url="html/ae8f5da0-31f8-2321-4f75-e1e71990970c.htm" />
+  <HelpKINode Title="Messenger.Dispose method" Url="html/d3f71d69-32e8-4892-bfac-4864a1d08147.htm" />
+  <HelpKINode Title="Messenger.Form1_FormClosing method" Url="html/2d0f8ff1-7875-b2df-3ae0-84f1ccd26970.htm" />
+  <HelpKINode Title="Messenger.Form1_messageReceived method" Url="html/9f600997-4fdd-90c5-537a-0586482859b4.htm" />
+  <HelpKINode Title="Messenger.GetAes method" Url="html/d6f0def7-70e0-62f7-bd61-675936a8597a.htm" />
+  <HelpKINode Title="Messenger.GetAesKey method" Url="html/8a563670-4011-4944-ad7b-ba46f55f04a6.htm" />
+  <HelpKINode Title="Messenger.GetFromDictionary method" Url="html/44db8e1f-45a0-112f-f6a0-d722c41e5f21.htm" />
+  <HelpKINode Title="Messenger.GetSender method" Url="html/36e492a1-13aa-19de-5e96-aaa1929bdd55.htm" />
+  <HelpKINode Title="Messenger.hashAlgorithm field" Url="html/3e72ab2f-2187-b854-573d-ab37d4266c07.htm" />
+  <HelpKINode Title="Messenger.InitializeComponent method" Url="html/791441ea-2a4b-dc99-9e57-7e8a97aecd81.htm" />
+  <HelpKINode Title="Messenger.loggedIn field" Url="html/c05a62d1-cca3-e76f-e10f-b7fd9d21d9e0.htm" />
+  <HelpKINode Title="Messenger.Login method" Url="html/adc1cbda-8254-e4e8-a217-d5b88307f8e5.htm" />
+  <HelpKINode Title="Messenger.loginButton field" Url="html/2871dcdd-f667-be04-6b0c-b80a31ed89f3.htm" />
+  <HelpKINode Title="Messenger.loginButton_Click method" Url="html/8ddc570b-add1-71ce-ae1c-4a29091c692a.htm" />
+  <HelpKINode Title="Messenger.loginLabel field" Url="html/5aa9884c-971d-fe2d-62ae-9fd8b3bb577c.htm" />
+  <HelpKINode Title="Messenger.loginPage field" Url="html/25ec5cde-a340-5420-2c27-167a03cd7590.htm" />
+  <HelpKINode Title="Messenger.loginRadioButton field" Url="html/65bb3ca6-6965-4e08-4841-89f76fd25220.htm" />
+  <HelpKINode Title="Messenger.loginTextBox field" Url="html/64d6171d-7c46-aca2-ef64-792cacc57bc4.htm" />
+  <HelpKINode Title="Messenger.MessageInputTextBox field" Url="html/fad439a7-0ef1-e947-71a4-4f47124dd4b9.htm" />
+  <HelpKINode Title="Messenger.MessageInputTextBox_KeyPress method" Url="html/c9a478b6-185c-e95f-ea60-4727da77b5d2.htm" />
+  <HelpKINode Title="Messenger.MessageInputTextBox_KeyUp method" Url="html/d11d95f3-3ec7-f63f-bfea-8f2649db2917.htm" />
+  <HelpKINode Title="Messenger.messageReceived event" Url="html/65a0cca7-6890-e5aa-d40d-bb3c65acdab2.htm" />
+  <HelpKINode Title="Messenger.Messenger constructor" Url="html/b12c8594-fdca-48f1-5799-fc6d8cf28392.htm" />
+  <HelpKINode Title="Messenger.MessengerPage field" Url="html/ec7715c4-e680-84a4-6e39-146941d8bff1.htm" />
+  <HelpKINode Title="Messenger.messengerRichTextBox field" Url="html/36b98388-e79c-deeb-fe7a-332357cfc1a5.htm" />
+  <HelpKINode Title="Messenger.onlineUsersListBox field" Url="html/e6bda3ba-373e-c90e-65f3-5b1fb6e4304f.htm" />
+  <HelpKINode Title="Messenger.onlineUsersListBox_SelectedIndexChanged method" Url="html/3160316a-75a8-48b4-6210-8d10e94d12ba.htm" />
+  <HelpKINode Title="Messenger.passwordLabel field" Url="html/0f31b31f-7751-7fa8-2592-a246b1273f85.htm" />
+  <HelpKINode Title="Messenger.passwordTextBox field" Url="html/2b188c1d-21e2-71f5-51c4-c7a4adaa39d0.htm" />
+  <HelpKINode Title="Messenger.registerRadioButton field" Url="html/c04707ad-d166-c13c-1d84-0dba9ea9c70b.htm" />
+  <HelpKINode Title="Messenger.Send method" Url="html/10273b0d-c6a3-67ec-2d9c-1443c4e73a99.htm" />
+  <HelpKINode Title="Messenger.SendMessage method" Url="html/5325cb95-8493-e567-e856-22fbf9d18efd.htm" />
+  <HelpKINode Title="Messenger.SendMessageButton field" Url="html/6f0eceb3-44d7-d131-9077-b62ee6e91efa.htm" />
+  <HelpKINode Title="Messenger.SendMessageButton_Click method" Url="html/4d171ffd-81f9-1ee9-9d72-203218044fa3.htm" />
+  <HelpKINode Title="Messenger.serverPK field" Url="html/77216c21-a001-346d-374f-d704337b909e.htm" />
+  <HelpKINode Title="Messenger.SignString method" Url="html/78c01f95-6269-16a7-7a1a-1219d66b6c82.htm" />
+  <HelpKINode Title="Messenger.StartConversationButton field" Url="html/f06ebe5b-e81b-cd2f-c246-32955fbe6036.htm" />
+  <HelpKINode Title="Messenger.StartConversationButton_Click method" Url="html/2e0b71bb-752f-fe67-7cde-5423c7c77107.htm" />
+  <HelpKINode Title="Messenger.syncRoot field" Url="html/ef4ce106-9b72-bbb5-e2f5-bbebf17b2136.htm" />
+  <HelpKINode Title="Messenger.tabControl field" Url="html/e855a07b-0d5d-b7f9-25cb-6b036ca60c6a.htm" />
+  <HelpKINode Title="Messenger.user field" Url="html/2940314e-29a6-3ac1-f317-4dbcf5a63508.htm" />
+  <HelpKINode Title="Messenger.userList field" Url="html/aa3e289e-6d39-051f-f5dc-7cccb7390a07.htm" />
+  <HelpKINode Title="Messenger.usersOnlineLabel field" Url="html/21f4f42e-4393-8c93-52b4-7e8c366c5608.htm" />
+  <HelpKINode Title="Messenger.welcomeLabel field" Url="html/968632f6-a863-7023-cecf-152888baa948.htm" />
+  <HelpKINode Title="MessengerPage field" Url="html/ec7715c4-e680-84a4-6e39-146941d8bff1.htm" />
+  <HelpKINode Title="messengerRichTextBox field" Url="html/36b98388-e79c-deeb-fe7a-332357cfc1a5.htm" />
+  <HelpKINode Title="onlineClients field" Url="html/3fab27b2-9be6-af5b-d1e1-18e5157aa5d0.htm" />
+  <HelpKINode Title="onlineUsersListBox field" Url="html/e6bda3ba-373e-c90e-65f3-5b1fb6e4304f.htm" />
+  <HelpKINode Title="onlineUsersListBox_SelectedIndexChanged method" Url="html/3160316a-75a8-48b4-6210-8d10e94d12ba.htm" />
+  <HelpKINode Title="password field">
+    <HelpKINode Title="RegisterMessage.password Field" Url="html/c4d83a10-6c4c-8212-7c88-c0901204e85c.htm" />
+    <HelpKINode Title="User.password Field" Url="html/a5cb45eb-6f92-31a8-7829-990ee1346669.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Password property">
+    <HelpKINode Title="RegisterMessage.Password Property " Url="html/bb36a0fe-cdb0-c1ca-1455-a7bddc3cddfe.htm" />
+    <HelpKINode Title="User.Password Property " Url="html/88e28dbe-61f1-67f0-f45f-8c5408f5b82f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="passwordLabel field" Url="html/0f31b31f-7751-7fa8-2592-a246b1273f85.htm" />
+  <HelpKINode Title="passwordTextBox field" Url="html/2b188c1d-21e2-71f5-51c4-c7a4adaa39d0.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/1624a5c5-95c9-08c7-c79b-4b895ca4bd71.htm" />
+    <HelpKINode Title="about Program class" Url="html/1624a5c5-95c9-08c7-c79b-4b895ca4bd71.htm" />
+    <HelpKINode Title="methods" Url="html/b1b7d858-bbf9-7f85-e1c6-64a864425ea7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main method" Url="html/d45004e6-f126-75f3-c96d-4cc97d786056.htm" />
+  <HelpKINode Title="publicKey field" Url="html/6a5ef1bc-5095-711c-81e6-51aa62f0df1a.htm" />
+  <HelpKINode Title="PublicKey property" Url="html/e0207901-d90a-06ef-ecab-0a5e5debfd24.htm" />
+  <HelpKINode Title="receiver field" Url="html/07710635-efdd-878f-4677-1bccf5ea1262.htm" />
+  <HelpKINode Title="Receiver property" Url="html/c96201de-65e5-edfc-1daf-a0266466c166.htm" />
+  <HelpKINode Title="RegisterMessage class">
+    <HelpKINode Title="RegisterMessage Class" Url="html/45177608-b4e0-390e-d573-aa84030c4549.htm" />
+    <HelpKINode Title="about RegisterMessage class" Url="html/45177608-b4e0-390e-d573-aa84030c4549.htm" />
+    <HelpKINode Title="constructor" Url="html/6c0879c5-6a27-c811-e5ba-6c278d096dc0.htm" />
+    <HelpKINode Title="fields" Url="html/5d112c0b-a206-0a2c-f950-71b0381ce41b.htm" />
+    <HelpKINode Title="properties" Url="html/ed6b4a5b-2cd7-ff5d-a1d1-0eb0919e674a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterMessage.isRegistered field" Url="html/77312306-4239-0b92-8823-2645350fb36d.htm" />
+  <HelpKINode Title="RegisterMessage.IsRegistred property" Url="html/45523e91-4057-7e8e-3163-a4c6ca0b4fff.htm" />
+  <HelpKINode Title="RegisterMessage.password field" Url="html/c4d83a10-6c4c-8212-7c88-c0901204e85c.htm" />
+  <HelpKINode Title="RegisterMessage.Password property" Url="html/bb36a0fe-cdb0-c1ca-1455-a7bddc3cddfe.htm" />
+  <HelpKINode Title="RegisterMessage.publicKey field" Url="html/6a5ef1bc-5095-711c-81e6-51aa62f0df1a.htm" />
+  <HelpKINode Title="RegisterMessage.PublicKey property" Url="html/e0207901-d90a-06ef-ecab-0a5e5debfd24.htm" />
+  <HelpKINode Title="RegisterMessage.RegisterMessage constructor" Url="html/6c0879c5-6a27-c811-e5ba-6c278d096dc0.htm" />
+  <HelpKINode Title="RegisterMessage.username field" Url="html/ec611f67-28aa-ea8f-4887-327cff246d80.htm" />
+  <HelpKINode Title="RegisterMessage.Username property" Url="html/9d4bf925-92fe-f252-6058-32f369e2df0b.htm" />
+  <HelpKINode Title="registerRadioButton field" Url="html/c04707ad-d166-c13c-1d84-0dba9ea9c70b.htm" />
+  <HelpKINode Title="RemoveFromDictonary method" Url="html/69f18f99-c5a9-e01d-c5de-6c91dd94528f.htm" />
+  <HelpKINode Title="RequestEventArgs class">
+    <HelpKINode Title="RequestEventArgs Class" Url="html/067d5ec1-9652-86ed-9e8e-bb8c209827fc.htm" />
+    <HelpKINode Title="about RequestEventArgs class" Url="html/067d5ec1-9652-86ed-9e8e-bb8c209827fc.htm" />
+    <HelpKINode Title="constructor" Url="html/97e04bc7-2060-f804-86a4-9994529591b5.htm" />
+    <HelpKINode Title="fields" Url="html/79f8e819-3e3e-99f7-454c-e54920b5770f.htm" />
+    <HelpKINode Title="properties" Url="html/2ec08af2-2cef-baf6-4d46-3f80b700f989.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestEventArgs.message field" Url="html/cc6a64d3-fb77-3860-e76f-24a447c926da.htm" />
+  <HelpKINode Title="RequestEventArgs.Message property" Url="html/8cfd2386-cf61-a2c8-f843-4934ba725d65.htm" />
+  <HelpKINode Title="RequestEventArgs.RequestEventArgs constructor" Url="html/97e04bc7-2060-f804-86a4-9994529591b5.htm" />
+  <HelpKINode Title="RequestEventArgs.username field" Url="html/d4fd4344-d286-64f5-bea9-7f1b1da501a2.htm" />
+  <HelpKINode Title="RequestEventArgs.Username property" Url="html/c2aa2490-d760-952a-2dc7-dc533ee27e79.htm" />
+  <HelpKINode Title="requestReceived event" Url="html/5c17c01b-f7b5-f774-aaaf-2b77481f4791.htm" />
+  <HelpKINode Title="RSADecrypt method" Url="html/e908f029-13e9-be18-42cf-7bb2a9523413.htm" />
+  <HelpKINode Title="RSAEncrypt method" Url="html/0ba37729-80ca-e771-87f6-885c1da8cc35.htm" />
+  <HelpKINode Title="rsaKeyGenerator field" Url="html/1949fbec-69cf-6b88-c9d0-8b69d285e061.htm" />
+  <HelpKINode Title="rsaKeys field" Url="html/7b3eab1b-020b-c84b-f4f7-5191d5076075.htm" />
+  <HelpKINode Title="RSAKeys property" Url="html/4a0f280f-c2b3-b05d-259a-e5fba007ee28.htm" />
+  <HelpKINode Title="SaveUsers method" Url="html/a2e29c82-6703-9c7d-5bb9-3ca8c1c48353.htm" />
+  <HelpKINode Title="Security class">
+    <HelpKINode Title="Security Class" Url="html/7c1ffdd5-452e-66e1-5491-958d2f132008.htm" />
+    <HelpKINode Title="about Security class" Url="html/7c1ffdd5-452e-66e1-5491-958d2f132008.htm" />
+    <HelpKINode Title="methods" Url="html/4a77ef87-2f45-82f7-8aff-518b9cfc6967.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Security.AESDecrypt method" Url="html/e9a758b0-72f9-e32b-4343-a197f372a2be.htm" />
+  <HelpKINode Title="Security.AESEncrypt method" Url="html/9c188306-c36d-1eab-1165-d215c3e829ac.htm" />
+  <HelpKINode Title="Security.DecryptMessage method" Url="html/3d4fe2fd-789e-e1b2-ac55-91a31a148685.htm" />
+  <HelpKINode Title="Security.EncryptMessage method" Url="html/62b6c9c7-2d4f-7df7-0f40-166bd71acbd4.htm" />
+  <HelpKINode Title="Security.RSADecrypt method" Url="html/e908f029-13e9-be18-42cf-7bb2a9523413.htm" />
+  <HelpKINode Title="Security.RSAEncrypt method" Url="html/0ba37729-80ca-e771-87f6-885c1da8cc35.htm" />
+  <HelpKINode Title="Send method" Url="html/10273b0d-c6a3-67ec-2d9c-1443c4e73a99.htm" />
+  <HelpKINode Title="sender field" Url="html/ff0d7d34-3dad-6f9f-407b-f1c848b0196b.htm" />
+  <HelpKINode Title="Sender property" Url="html/ea9ac480-dff4-bffc-3317-7274491fc88d.htm" />
+  <HelpKINode Title="SendMessage method" Url="html/5325cb95-8493-e567-e856-22fbf9d18efd.htm" />
+  <HelpKINode Title="SendMessageButton field" Url="html/6f0eceb3-44d7-d131-9077-b62ee6e91efa.htm" />
+  <HelpKINode Title="SendMessageButton_Click method" Url="html/4d171ffd-81f9-1ee9-9d72-203218044fa3.htm" />
+  <HelpKINode Title="Serialize method" Url="html/ecf59286-a026-e155-4c35-d478bae3be76.htm" />
+  <HelpKINode Title="Server class">
+    <HelpKINode Title="Server Class" Url="html/5999b792-e710-3c19-d9ed-4af250206c90.htm" />
+    <HelpKINode Title="about Server class" Url="html/5999b792-e710-3c19-d9ed-4af250206c90.htm" />
+    <HelpKINode Title="constructor" Url="html/af1a0bef-17ee-eb55-328d-46183860f32c.htm" />
+    <HelpKINode Title="constructor" Url="html/eb05e33a-0872-4edc-2d53-f49af25133ef.htm" />
+    <HelpKINode Title="events" Url="html/50f70a2b-6f83-3271-e47b-9b64d99133e4.htm" />
+    <HelpKINode Title="fields" Url="html/5c890939-0888-c3c0-38cc-bd2cf0e2c11d.htm" />
+    <HelpKINode Title="methods" Url="html/582f8805-5c19-4cd1-8a17-6667626db3ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Server namespace" Url="html/01fb5fc4-553e-1341-981f-f7b97fb52f82.htm" />
+  <HelpKINode Title="Server.AddToDictonary method" Url="html/bf2fa8d0-226f-7274-0506-4028572605ac.htm" />
+  <HelpKINode Title="Server.aesKeyGenerator field" Url="html/28c1ca11-bcc8-7d9d-8e57-5a006ee1a890.htm" />
+  <HelpKINode Title="Server.CheckDictionary method" Url="html/39dc1a08-be44-326a-27a8-cf1689ec0901.htm" />
+  <HelpKINode Title="Server.CheckPassword method" Url="html/c6a369df-24d0-72d3-2794-d514ee29358d.htm" />
+  <HelpKINode Title="Server.GetFromClientDictonary method" Url="html/624a87ff-4b09-4121-88cf-b3aff018d3f8.htm" />
+  <HelpKINode Title="Server.GetFromUsersDictonary method" Url="html/31405065-f360-dead-8388-62a5d8a62d07.htm" />
+  <HelpKINode Title="Server.GetUsers method" Url="html/2b435b93-71c9-2be5-ffc7-f73dbd0335d5.htm" />
+  <HelpKINode Title="Server.HandleClientRequest method" Url="html/01925421-7a4d-5657-81c5-c22186503f47.htm" />
+  <HelpKINode Title="Server.hashAlgorithm field" Url="html/5fb7d579-0bc9-3ac5-4d51-982753fae3a5.htm" />
+  <HelpKINode Title="Server.Initialize method" Url="html/73a83b99-cb64-a431-70e9-220a0366f1f4.htm" />
+  <HelpKINode Title="Server.onlineClients field" Url="html/3fab27b2-9be6-af5b-d1e1-18e5157aa5d0.htm" />
+  <HelpKINode Title="Server.RemoveFromDictonary method" Url="html/69f18f99-c5a9-e01d-c5de-6c91dd94528f.htm" />
+  <HelpKINode Title="Server.RequestEventArgs class" Url="html/067d5ec1-9652-86ed-9e8e-bb8c209827fc.htm" />
+  <HelpKINode Title="Server.requestReceived event" Url="html/5c17c01b-f7b5-f774-aaaf-2b77481f4791.htm" />
+  <HelpKINode Title="Server.rsaKeyGenerator field" Url="html/1949fbec-69cf-6b88-c9d0-8b69d285e061.htm" />
+  <HelpKINode Title="Server.SaveUsers method" Url="html/a2e29c82-6703-9c7d-5bb9-3ca8c1c48353.htm" />
+  <HelpKINode Title="Server.Server class" Url="html/5999b792-e710-3c19-d9ed-4af250206c90.htm" />
+  <HelpKINode Title="Server.Server constructor">
+    <HelpKINode Title="Server Constructor " Url="html/af1a0bef-17ee-eb55-328d-46183860f32c.htm" />
+    <HelpKINode Title="Server Constructor " Url="html/eb05e33a-0872-4edc-2d53-f49af25133ef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Server.Server_requestReceived method" Url="html/87e97264-a0b7-f192-6fc8-c987b38fc984.htm" />
+  <HelpKINode Title="Server.syncRoot field" Url="html/34260f58-bb60-d60f-a555-3d3b65c62c5a.htm" />
+  <HelpKINode Title="Server.UpdateList method" Url="html/888e3a11-fc2a-82c9-264d-45502d867677.htm" />
+  <HelpKINode Title="Server.usersInformation field" Url="html/b55823b2-476b-5cb1-1723-e109c331038c.htm" />
+  <HelpKINode Title="serverPK field" Url="html/77216c21-a001-346d-374f-d704337b909e.htm" />
+  <HelpKINode Title="Server_requestReceived method" Url="html/87e97264-a0b7-f192-6fc8-c987b38fc984.htm" />
+  <HelpKINode Title="signature field" Url="html/ace51769-c8d5-f709-b043-a61aec099100.htm" />
+  <HelpKINode Title="Signature property" Url="html/31efdc6e-0c8e-a101-509b-9bbaa828218a.htm" />
+  <HelpKINode Title="SignString method" Url="html/78c01f95-6269-16a7-7a1a-1219d66b6c82.htm" />
+  <HelpKINode Title="StartConversationButton field" Url="html/f06ebe5b-e81b-cd2f-c246-32955fbe6036.htm" />
+  <HelpKINode Title="StartConversationButton_Click method" Url="html/2e0b71bb-752f-fe67-7cde-5423c7c77107.htm" />
+  <HelpKINode Title="StartConversationReplyMessage class">
+    <HelpKINode Title="StartConversationReplyMessage Class" Url="html/4575ae1b-9d54-1e00-7f11-ec3896338649.htm" />
+    <HelpKINode Title="about StartConversationReplyMessage class" Url="html/4575ae1b-9d54-1e00-7f11-ec3896338649.htm" />
+    <HelpKINode Title="constructor" Url="html/5c9e3a57-0053-bf62-8b96-1ca5ab2e165d.htm" />
+    <HelpKINode Title="fields" Url="html/e2f26b14-4175-38af-69b8-16b6725fed34.htm" />
+    <HelpKINode Title="properties" Url="html/7567205c-de5f-f9e5-9d81-5057c8bf26d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StartConversationReplyMessage.iv field" Url="html/3f7b08b6-e976-e2cf-c2c2-0bfebb964e58.htm" />
+  <HelpKINode Title="StartConversationReplyMessage.IV property" Url="html/de9643ce-d5c1-bee4-bc29-421188a9bbff.htm" />
+  <HelpKINode Title="StartConversationReplyMessage.key field" Url="html/0235fa08-b93d-7eed-cafd-01ec22529555.htm" />
+  <HelpKINode Title="StartConversationReplyMessage.Key property" Url="html/66306b56-226e-6c61-3164-49bf0a55b47b.htm" />
+  <HelpKINode Title="StartConversationReplyMessage.StartConversationReplyMessage constructor" Url="html/5c9e3a57-0053-bf62-8b96-1ca5ab2e165d.htm" />
+  <HelpKINode Title="syncRoot field">
+    <HelpKINode Title="Messenger.syncRoot Field" Url="html/ef4ce106-9b72-bbb5-e2f5-bbebf17b2136.htm" />
+    <HelpKINode Title="Server.syncRoot Field" Url="html/34260f58-bb60-d60f-a555-3d3b65c62c5a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tabControl field" Url="html/e855a07b-0d5d-b7f9-25cb-6b036ca60c6a.htm" />
+  <HelpKINode Title="UpdateList method" Url="html/888e3a11-fc2a-82c9-264d-45502d867677.htm" />
+  <HelpKINode Title="User class">
+    <HelpKINode Title="User Class" Url="html/d7fc3d3b-b7b4-c6a2-b60d-c1d0d5d6c429.htm" />
+    <HelpKINode Title="about User class" Url="html/d7fc3d3b-b7b4-c6a2-b60d-c1d0d5d6c429.htm" />
+    <HelpKINode Title="constructor" Url="html/856e846e-88fa-f041-8b0d-b91a34fb591f.htm" />
+    <HelpKINode Title="fields" Url="html/515f8fcc-c161-b6fc-27e1-731841260a4b.htm" />
+    <HelpKINode Title="properties" Url="html/aab77683-d69a-eb39-9e8c-5ad71b60d2ea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="user field" Url="html/2940314e-29a6-3ac1-f317-4dbcf5a63508.htm" />
+  <HelpKINode Title="User.password field" Url="html/a5cb45eb-6f92-31a8-7829-990ee1346669.htm" />
+  <HelpKINode Title="User.Password property" Url="html/88e28dbe-61f1-67f0-f45f-8c5408f5b82f.htm" />
+  <HelpKINode Title="User.rsaKeys field" Url="html/7b3eab1b-020b-c84b-f4f7-5191d5076075.htm" />
+  <HelpKINode Title="User.RSAKeys property" Url="html/4a0f280f-c2b3-b05d-259a-e5fba007ee28.htm" />
+  <HelpKINode Title="User.User constructor" Url="html/856e846e-88fa-f041-8b0d-b91a34fb591f.htm" />
+  <HelpKINode Title="User.username field" Url="html/68ce2445-ea33-192c-3da3-d5de506921f0.htm" />
+  <HelpKINode Title="User.Username property" Url="html/c9acd15e-702d-4189-7088-6293904aa391.htm" />
+  <HelpKINode Title="userList field" Url="html/aa3e289e-6d39-051f-f5dc-7cccb7390a07.htm" />
+  <HelpKINode Title="username field">
+    <HelpKINode Title="RegisterMessage.username Field" Url="html/ec611f67-28aa-ea8f-4887-327cff246d80.htm" />
+    <HelpKINode Title="RequestEventArgs.username Field" Url="html/d4fd4344-d286-64f5-bea9-7f1b1da501a2.htm" />
+    <HelpKINode Title="User.username Field" Url="html/68ce2445-ea33-192c-3da3-d5de506921f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Username property">
+    <HelpKINode Title="RegisterMessage.Username Property " Url="html/9d4bf925-92fe-f252-6058-32f369e2df0b.htm" />
+    <HelpKINode Title="RequestEventArgs.Username Property " Url="html/c2aa2490-d760-952a-2dc7-dc533ee27e79.htm" />
+    <HelpKINode Title="User.Username Property " Url="html/c9acd15e-702d-4189-7088-6293904aa391.htm" />
+  </HelpKINode>
+  <HelpKINode Title="usersInformation field" Url="html/b55823b2-476b-5cb1-1723-e109c331038c.htm" />
+  <HelpKINode Title="usersOnlineLabel field" Url="html/21f4f42e-4393-8c93-52b4-7e8c366c5608.htm" />
+  <HelpKINode Title="welcomeLabel field" Url="html/968632f6-a863-7023-cecf-152888baa948.htm" />
+</HelpKI>

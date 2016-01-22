@@ -1,0 +1,56 @@
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\TestApp.exe.config
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\TestApp.exe
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\TestApp.pdb
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\obj\Debug\TestApp.exe
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\obj\Debug\TestApp.pdb
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\Messages.dll
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\Server.dll
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\Messages.pdb
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\bin\Debug\Server.pdb
+c:\Users\Jakub\documents\visual studio 2015\Projects\PKRY\Server\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\obj\Debug\TestApp.exe
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\TestApp.exe
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\Messages.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\Server.dll
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\Messages.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\bin\Debug\Server.pdb
+C:\Users\Jakub\OneDrive\PKRY\Server\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\obj\Debug\TestApp.exe
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\obj\Debug\TestApp.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\TestApp.exe
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\TestApp.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\Messages.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\Server.dll
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\Messages.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\Server.pdb
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\PKRY\Bańka Final\Server\TestApp\bin\Debug\Server.xml
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\obj\Debug\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\Server\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\obj\Debug\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\TestApp.exe
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\bin\Debug\Server.xml
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\obj\Debug\TestApp.exe
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\TestApp.exe
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\Messages.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\Server.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\Messages.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\Server.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\bin\Debug\Server.xml
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Jakub\Desktop\Bańka Final\Client\Messages\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\Client\Messages\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Client\Messages\obj\Release\Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\Client\Messages\obj\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\Client\Messages\obj\Release\Messages.pdb

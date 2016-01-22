@@ -1,0 +1,21 @@
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\bin\Release\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\bin\Release\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\obj\Release\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\Server\Server\obj\Release\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Release\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Release\Server.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\obj\Release\Server.dll
+C:\Users\Jakub\Desktop\Bańka Final\src\Server\Server\obj\Release\Server.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Release\Server.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Release\Server.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Release\Messages.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\bin\Release\Messages.pdb
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\obj\Release\Server.dll
+C:\Users\Jakub\Desktop\J. Bańka R.Kowalski PKRY\src\Server\Server\obj\Release\Server.pdb
